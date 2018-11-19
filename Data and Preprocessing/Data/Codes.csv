@@ -1,0 +1,2194 @@
+﻿2017 NAICS US   Code,2017 NAICS US Title
+11.00,"Agriculture, Forestry, Fishing and Hunting"
+111.00,Crop Production
+1111.00,Oilseed and Grain Farming
+11111.00,Soybean Farming
+111110.00,Soybean Farming
+11112.00,Oilseed (except Soybean) Farming
+111120.00,Oilseed (except Soybean) Farming 
+11113.00,Dry Pea and Bean Farming
+111130.00,Dry Pea and Bean Farming 
+11114.00,Wheat Farming
+111140.00,Wheat Farming
+11115.00,Corn Farming
+111150.00,Corn Farming 
+11116.00,Rice Farming
+111160.00,Rice Farming
+11119.00,Other Grain Farming
+111191.00,Oilseed and Grain Combination Farming 
+111199.00,All Other Grain Farming 
+1112.00,Vegetable and Melon Farming
+11121.00,Vegetable and Melon Farming
+111211.00,Potato Farming 
+111219.00,Other Vegetable (except Potato) and Melon Farming 
+1113.00,Fruit and Tree Nut Farming
+11131.00,Orange Groves
+111310.00,Orange Groves
+11132.00,Citrus (except Orange) Groves
+111320.00,Citrus (except Orange) Groves 
+11133.00,Noncitrus Fruit and Tree Nut Farming
+111331.00,Apple Orchards 
+111332.00,Grape Vineyards 
+111333.00,Strawberry Farming 
+111334.00,Berry (except Strawberry) Farming 
+111335.00,Tree Nut Farming 
+111336.00,Fruit and Tree Nut Combination Farming 
+111339.00,Other Noncitrus Fruit Farming 
+1114.00,"Greenhouse, Nursery, and Floriculture Production"
+11141.00,Food Crops Grown Under Cover
+111411.00,Mushroom Production 
+111419.00,Other Food Crops Grown Under Cover 
+11142.00,Nursery and Floriculture Production
+111421.00,Nursery and Tree Production 
+111422.00,Floriculture Production 
+1119.00,Other Crop Farming
+11191.00,Tobacco Farming
+111910.00,Tobacco Farming
+11192.00,Cotton Farming
+111920.00,Cotton Farming
+11193.00,Sugarcane Farming
+111930.00,Sugarcane Farming
+11194.00,Hay Farming
+111940.00,Hay Farming 
+11199.00,All Other Crop Farming
+111991.00,Sugar Beet Farming 
+111992.00,Peanut Farming 
+111998.00,All Other Miscellaneous Crop Farming 
+112.00,Animal Production and Aquaculture
+1121.00,Cattle Ranching and Farming
+11211.00,"Beef Cattle Ranching and Farming, including Feedlots"
+112111.00,Beef Cattle Ranching and Farming 
+112112.00,Cattle Feedlots 
+11212.00,Dairy Cattle and Milk Production
+112120.00,Dairy Cattle and Milk Production
+11213.00,Dual-Purpose Cattle Ranching and Farming
+112130.00,Dual-Purpose Cattle Ranching and Farming 
+1122.00,Hog and Pig Farming
+11221.00,Hog and Pig Farming
+112210.00,Hog and Pig Farming 
+1123.00,Poultry and Egg Production
+11231.00,Chicken Egg Production
+112310.00,Chicken Egg Production 
+11232.00,Broilers and Other Meat Type Chicken Production
+112320.00,Broilers and Other Meat Type Chicken Production 
+11233.00,Turkey Production
+112330.00,Turkey Production
+11234.00,Poultry Hatcheries
+112340.00,Poultry Hatcheries
+11239.00,Other Poultry Production
+112390.00,Other Poultry Production 
+1124.00,Sheep and Goat Farming
+11241.00,Sheep Farming
+112410.00,Sheep Farming
+11242.00,Goat Farming
+112420.00,Goat Farming
+1125.00,Aquaculture
+11251.00,Aquaculture
+112511.00,Finfish Farming and Fish Hatcheries 
+112512.00,Shellfish Farming 
+112519.00,Other Aquaculture 
+1129.00,Other Animal Production
+11291.00,Apiculture
+112910.00,Apiculture
+11292.00,Horses and Other Equine Production
+112920.00,Horses and Other Equine Production
+11293.00,Fur-Bearing Animal and Rabbit Production
+112930.00,Fur-Bearing Animal and Rabbit Production
+11299.00,All Other Animal Production
+112990.00,All Other Animal Production 
+113.00,Forestry and Logging
+1131.00,Timber Tract Operations
+11311.00,Timber Tract Operations
+113110.00,Timber Tract Operations
+1132.00,Forest Nurseries and Gathering of Forest Products
+11321.00,Forest Nurseries and Gathering of Forest Products
+113210.00,Forest Nurseries and Gathering of Forest Products 
+1133.00,Logging
+11331.00,Logging
+113310.00,Logging 
+114.00,"Fishing, Hunting and Trapping"
+1141.00,Fishing
+11411.00,Fishing
+114111.00,Finfish Fishing 
+114112.00,Shellfish Fishing 
+114119.00,Other Marine Fishing 
+1142.00,Hunting and Trapping
+11421.00,Hunting and Trapping
+114210.00,Hunting and Trapping
+115.00,Support Activities for Agriculture and Forestry
+1151.00,Support Activities for Crop Production
+11511.00,Support Activities for Crop Production
+115111.00,Cotton Ginning 
+115112.00,"Soil Preparation, Planting, and Cultivating "
+115113.00,"Crop Harvesting, Primarily by Machine "
+115114.00,Postharvest Crop Activities (except Cotton Ginning) 
+115115.00,Farm Labor Contractors and Crew Leaders 
+115116.00,Farm Management Services 
+1152.00,Support Activities for Animal Production
+11521.00,Support Activities for Animal Production
+115210.00,Support Activities for Animal Production
+1153.00,Support Activities for Forestry
+11531.00,Support Activities for Forestry
+115310.00,Support Activities for Forestry
+21.00,"Mining, Quarrying, and Oil and Gas Extraction"
+211.00,Oil and Gas Extraction
+2111.00,Oil and Gas Extraction
+21112.00,Crude Petroleum Extraction 
+211120.00,Crude Petroleum Extraction 
+21113.00,Natural Gas Extraction 
+211130.00,Natural Gas Extraction 
+212.00,Mining (except Oil and Gas)
+2121.00,Coal Mining
+21211.00,Coal Mining
+212111.00,Bituminous Coal and Lignite Surface Mining 
+212112.00,Bituminous Coal Underground Mining 
+212113.00,Anthracite Mining 
+2122.00,Metal Ore Mining
+21221.00,Iron Ore Mining
+212210.00,Iron Ore Mining
+21222.00,Gold Ore and Silver Ore Mining
+212221.00,Gold Ore Mining 
+212222.00,Silver Ore Mining 
+21223.00,"Copper, Nickel, Lead, and Zinc Mining"
+212230.00,"Copper, Nickel, Lead, and Zinc Mining "
+21229.00,Other Metal Ore Mining
+212291.00,Uranium-Radium-Vanadium Ore Mining 
+212299.00,All Other Metal Ore Mining 
+2123.00,Nonmetallic Mineral Mining and Quarrying
+21231.00,Stone Mining and Quarrying
+212311.00,Dimension Stone Mining and Quarrying 
+212312.00,Crushed and Broken Limestone Mining and Quarrying 
+212313.00,Crushed and Broken Granite Mining and Quarrying 
+212319.00,Other Crushed and Broken Stone Mining and Quarrying 
+21232.00,"Sand, Gravel, Clay, and Ceramic and Refractory Minerals Mining and Quarrying"
+212321.00,Construction Sand and Gravel Mining 
+212322.00,Industrial Sand Mining 
+212324.00,Kaolin and Ball Clay Mining 
+212325.00,Clay and Ceramic and Refractory Minerals Mining 
+21239.00,Other Nonmetallic Mineral Mining and Quarrying
+212391.00,"Potash, Soda, and Borate Mineral Mining "
+212392.00,Phosphate Rock Mining 
+212393.00,Other Chemical and Fertilizer Mineral Mining 
+212399.00,All Other Nonmetallic Mineral Mining 
+213.00,Support Activities for Mining
+2131.00,Support Activities for Mining
+21311.00,Support Activities for Mining
+213111.00,Drilling Oil and Gas Wells
+213112.00,Support Activities for Oil and Gas Operations 
+213113.00,Support Activities for Coal Mining 
+213114.00,Support Activities for Metal Mining 
+213115.00,Support Activities for Nonmetallic Minerals (except Fuels) Mining 
+22.00,Utilities
+221.00,Utilities 
+2211.00,"Electric Power Generation, Transmission and Distribution"
+22111.00,Electric Power Generation 
+221111.00,Hydroelectric Power Generation 
+221112.00,Fossil Fuel Electric Power Generation 
+221113.00,Nuclear Electric Power Generation 
+221114.00,Solar Electric Power Generation 
+221115.00,Wind Electric Power Generation 
+221116.00,Geothermal Electric Power Generation 
+221117.00,Biomass Electric Power Generation 
+221118.00,Other Electric Power Generation 
+22112.00,"Electric Power Transmission, Control, and Distribution "
+221121.00,Electric Bulk Power Transmission and Control 
+221122.00,Electric Power Distribution 
+2212.00,Natural Gas Distribution 
+22121.00,Natural Gas Distribution 
+221210.00,Natural Gas Distribution 
+2213.00,"Water, Sewage and Other Systems "
+22131.00,Water Supply and Irrigation Systems 
+221310.00,Water Supply and Irrigation Systems 
+22132.00,Sewage Treatment Facilities 
+221320.00,Sewage Treatment Facilities 
+22133.00,Steam and Air-Conditioning Supply 
+221330.00,Steam and Air-Conditioning Supply 
+23.00,Construction
+236.00,Construction of Buildings
+2361.00,Residential Building Construction
+23611.00,Residential Building Construction
+236115.00,New Single-Family Housing Construction (except For-Sale Builders) 
+236116.00,New Multifamily Housing Construction (except For-Sale Builders) 
+236117.00,New Housing For-Sale Builders 
+236118.00,Residential Remodelers 
+2362.00,Nonresidential Building Construction
+23621.00,Industrial Building Construction
+236210.00,Industrial Building Construction 
+23622.00,Commercial and Institutional Building Construction
+236220.00,Commercial and Institutional Building Construction 
+237.00,Heavy and Civil Engineering Construction
+2371.00,Utility System Construction
+23711.00,Water and Sewer Line and Related Structures Construction
+237110.00,Water and Sewer Line and Related Structures Construction 
+23712.00,Oil and Gas Pipeline and Related Structures Construction
+237120.00,Oil and Gas Pipeline and Related Structures Construction 
+23713.00,Power and Communication Line and Related Structures Construction
+237130.00,Power and Communication Line and Related Structures Construction 
+2372.00,Land Subdivision
+23721.00,Land Subdivision
+237210.00,Land Subdivision 
+2373.00,"Highway, Street, and Bridge Construction"
+23731.00,"Highway, Street, and Bridge Construction"
+237310.00,"Highway, Street, and Bridge Construction "
+2379.00,Other Heavy and Civil Engineering Construction
+23799.00,Other Heavy and Civil Engineering Construction
+237990.00,Other Heavy and Civil Engineering Construction 
+238.00,Specialty Trade Contractors
+2381.00,"Foundation, Structure, and Building Exterior Contractors"
+23811.00,Poured Concrete Foundation and Structure Contractors 
+238110.00,Poured Concrete Foundation and Structure Contractors 
+23812.00,Structural Steel and Precast Concrete Contractors 
+238120.00,Structural Steel and Precast Concrete Contractors 
+23813.00,Framing Contractors 
+238130.00,Framing Contractors 
+23814.00,Masonry Contractors 
+238140.00,Masonry Contractors 
+23815.00,Glass and Glazing Contractors 
+238150.00,Glass and Glazing Contractors 
+23816.00,Roofing Contractors 
+238160.00,Roofing Contractors 
+23817.00,Siding Contractors 
+238170.00,Siding Contractors 
+23819.00,"Other Foundation, Structure, and Building Exterior Contractors "
+238190.00,"Other Foundation, Structure, and Building Exterior Contractors "
+2382.00,Building Equipment Contractors
+23821.00,Electrical Contractors and Other Wiring Installation Contractors
+238210.00,Electrical Contractors and Other Wiring Installation Contractors
+23822.00,"Plumbing, Heating, and Air-Conditioning Contractors"
+238220.00,"Plumbing, Heating, and Air-Conditioning Contractors "
+23829.00,Other Building Equipment Contractors
+238290.00,Other Building Equipment Contractors 
+2383.00,Building Finishing Contractors
+23831.00,Drywall and Insulation Contractors
+238310.00,Drywall and Insulation Contractors 
+23832.00,Painting and Wall Covering Contractors
+238320.00,Painting and Wall Covering Contractors
+23833.00,Flooring Contractors
+238330.00,Flooring Contractors
+23834.00,Tile and Terrazzo Contractors
+238340.00,Tile and Terrazzo Contractors
+23835.00,Finish Carpentry Contractors
+238350.00,Finish Carpentry Contractors
+23839.00,Other Building Finishing Contractors
+238390.00,Other Building Finishing Contractors
+2389.00,Other Specialty Trade Contractors
+23891.00,Site Preparation Contractors
+238910.00,Site Preparation Contractors
+23899.00,All Other Specialty Trade Contractors
+238990.00,All Other Specialty Trade Contractors
+311.00,Food Manufacturing
+3111.00,Animal Food Manufacturing
+31111.00,Animal Food Manufacturing
+311111.00,Dog and Cat Food Manufacturing 
+311119.00,Other Animal Food Manufacturing 
+3112.00,Grain and Oilseed Milling
+31121.00,Flour Milling and Malt Manufacturing
+311211.00,Flour Milling 
+311212.00,Rice Milling 
+311213.00,Malt Manufacturing 
+31122.00,Starch and Vegetable Fats and Oils Manufacturing
+311221.00,Wet Corn Milling 
+311224.00,Soybean and Other Oilseed Processing 
+311225.00,Fats and Oils Refining and Blending 
+31123.00,Breakfast Cereal Manufacturing
+311230.00,Breakfast Cereal Manufacturing
+3113.00,Sugar and Confectionery Product Manufacturing
+31131.00,Sugar Manufacturing
+311313.00,Beet Sugar Manufacturing 
+311314.00,Cane Sugar Manufacturing 
+31134.00,Nonchocolate Confectionery Manufacturing
+311340.00,Nonchocolate Confectionery Manufacturing
+31135.00,Chocolate and Confectionery Manufacturing
+311351.00,Chocolate and Confectionery Manufacturing from Cacao Beans 
+311352.00,Confectionery Manufacturing from Purchased Chocolate 
+3114.00,Fruit and Vegetable Preserving and Specialty Food Manufacturing
+31141.00,Frozen Food Manufacturing
+311411.00,"Frozen Fruit, Juice, and Vegetable Manufacturing "
+311412.00,Frozen Specialty Food Manufacturing 
+31142.00,"Fruit and Vegetable Canning, Pickling, and Drying"
+311421.00,Fruit and Vegetable Canning 
+311422.00,Specialty Canning 
+311423.00,Dried and Dehydrated Food Manufacturing 
+3115.00,Dairy Product Manufacturing
+31151.00,Dairy Product (except Frozen) Manufacturing
+311511.00,Fluid Milk Manufacturing 
+311512.00,Creamery Butter Manufacturing 
+311513.00,Cheese Manufacturing 
+311514.00,"Dry, Condensed, and Evaporated Dairy Product Manufacturing "
+31152.00,Ice Cream and Frozen Dessert Manufacturing
+311520.00,Ice Cream and Frozen Dessert Manufacturing
+3116.00,Animal Slaughtering and Processing
+31161.00,Animal Slaughtering and Processing
+311611.00,Animal (except Poultry) Slaughtering 
+311612.00,Meat Processed from Carcasses 
+311613.00,Rendering and Meat Byproduct Processing 
+311615.00,Poultry Processing 
+3117.00,Seafood Product Preparation and Packaging
+31171.00,Seafood Product Preparation and Packaging
+311710.00,Seafood Product Preparation and Packaging
+3118.00,Bakeries and Tortilla Manufacturing
+31181.00,Bread and Bakery Product Manufacturing
+311811.00,Retail Bakeries 
+311812.00,Commercial Bakeries 
+311813.00,"Frozen Cakes, Pies, and Other Pastries Manufacturing "
+31182.00,"Cookie, Cracker, and Pasta Manufacturing"
+311821.00,Cookie and Cracker Manufacturing 
+311824.00,"Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour "
+31183.00,Tortilla Manufacturing
+311830.00,Tortilla Manufacturing
+3119.00,Other Food Manufacturing
+31191.00,Snack Food Manufacturing
+311911.00,Roasted Nuts and Peanut Butter Manufacturing 
+311919.00,Other Snack Food Manufacturing 
+31192.00,Coffee and Tea Manufacturing
+311920.00,Coffee and Tea Manufacturing 
+31193.00,Flavoring Syrup and Concentrate Manufacturing
+311930.00,Flavoring Syrup and Concentrate Manufacturing
+31194.00,Seasoning and Dressing Manufacturing
+311941.00,"Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing "
+311942.00,Spice and Extract Manufacturing 
+31199.00,All Other Food Manufacturing
+311991.00,Perishable Prepared Food Manufacturing 
+311999.00,All Other Miscellaneous Food Manufacturing 
+312.00,Beverage and Tobacco Product Manufacturing
+3121.00,Beverage Manufacturing
+31211.00,Soft Drink and Ice Manufacturing
+312111.00,Soft Drink Manufacturing 
+312112.00,Bottled Water Manufacturing 
+312113.00,Ice Manufacturing 
+31212.00,Breweries
+312120.00,Breweries
+31213.00,Wineries
+312130.00,Wineries 
+31214.00,Distilleries
+312140.00,Distilleries 
+3122.00,Tobacco Manufacturing
+31223.00,Tobacco Manufacturing
+312230.00,Tobacco Manufacturing 
+313.00,Textile Mills
+3131.00,"Fiber, Yarn, and Thread Mills"
+31311.00,"Fiber, Yarn, and Thread Mills"
+313110.00,"Fiber, Yarn, and Thread Mills "
+3132.00,Fabric Mills
+31321.00,Broadwoven Fabric Mills
+313210.00,Broadwoven Fabric Mills
+31322.00,Narrow Fabric Mills and Schiffli Machine Embroidery
+313220.00,Narrow Fabric Mills and Schiffli Machine Embroidery
+31323.00,Nonwoven Fabric Mills
+313230.00,Nonwoven Fabric Mills
+31324.00,Knit Fabric Mills
+313240.00,Knit Fabric Mills
+3133.00,Textile and Fabric Finishing and Fabric Coating Mills
+31331.00,Textile and Fabric Finishing Mills
+313310.00,Textile and Fabric Finishing Mills 
+31332.00,Fabric Coating Mills
+313320.00,Fabric Coating Mills
+314.00,Textile Product Mills
+3141.00,Textile Furnishings Mills
+31411.00,Carpet and Rug Mills
+314110.00,Carpet and Rug Mills
+31412.00,Curtain and Linen Mills
+314120.00,Curtain and Linen Mills
+3149.00,Other Textile Product Mills
+31491.00,Textile Bag and Canvas Mills
+314910.00,Textile Bag and Canvas Mills 
+31499.00,All Other Textile Product Mills
+314994.00,"Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills "
+314999.00,All Other Miscellaneous Textile Product Mills 
+315.00,Apparel Manufacturing
+3151.00,Apparel Knitting Mills
+31511.00,Hosiery and Sock Mills
+315110.00,Hosiery and Sock Mills
+31519.00,Other Apparel Knitting Mills
+315190.00,Other Apparel Knitting Mills 
+3152.00,Cut and Sew Apparel Manufacturing
+31521.00,Cut and Sew Apparel Contractors 
+315210.00,Cut and Sew Apparel Contractors 
+31522.00,Men’s and Boys’ Cut and Sew Apparel Manufacturing 
+315220.00,Men’s and Boys’ Cut and Sew Apparel Manufacturing 
+31524.00,"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"
+315240.00,"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing "
+31528.00,Other Cut and Sew Apparel Manufacturing 
+315280.00,Other Cut and Sew Apparel Manufacturing 
+3159.00,Apparel Accessories and Other Apparel Manufacturing
+31599.00,Apparel Accessories and Other Apparel Manufacturing
+315990.00,Apparel Accessories and Other Apparel Manufacturing 
+316.00,Leather and Allied Product Manufacturing
+3161.00,Leather and Hide Tanning and Finishing
+31611.00,Leather and Hide Tanning and Finishing
+316110.00,Leather and Hide Tanning and Finishing
+3162.00,Footwear Manufacturing
+31621.00,Footwear Manufacturing
+316210.00,Footwear Manufacturing 
+3169.00,Other Leather and Allied Product Manufacturing
+31699.00,Other Leather and Allied Product Manufacturing
+316992.00,Women's Handbag and Purse Manufacturing 
+316998.00,All Other Leather Good and Allied Product Manufacturing 
+321.00,Wood Product Manufacturing
+3211.00,Sawmills and Wood Preservation
+32111.00,Sawmills and Wood Preservation
+321113.00,Sawmills 
+321114.00,Wood Preservation 
+3212.00,"Veneer, Plywood, and Engineered Wood Product Manufacturing"
+32121.00,"Veneer, Plywood, and Engineered Wood Product Manufacturing"
+321211.00,Hardwood Veneer and Plywood Manufacturing 
+321212.00,Softwood Veneer and Plywood Manufacturing 
+321213.00,Engineered Wood Member (except Truss) Manufacturing 
+321214.00,Truss Manufacturing 
+321219.00,Reconstituted Wood Product Manufacturing 
+3219.00,Other Wood Product Manufacturing
+32191.00,Millwork
+321911.00,Wood Window and Door Manufacturing 
+321912.00,"Cut Stock, Resawing Lumber, and Planing "
+321918.00,Other Millwork (including Flooring) 
+32192.00,Wood Container and Pallet Manufacturing
+321920.00,Wood Container and Pallet Manufacturing
+32199.00,All Other Wood Product Manufacturing
+321991.00,Manufactured Home (Mobile Home) Manufacturing 
+321992.00,Prefabricated Wood Building Manufacturing 
+321999.00,All Other Miscellaneous Wood Product Manufacturing 
+322.00,Paper Manufacturing
+3221.00,"Pulp, Paper, and Paperboard Mills"
+32211.00,Pulp Mills
+322110.00,Pulp Mills 
+32212.00,Paper Mills
+322121.00,Paper (except Newsprint) Mills 
+322122.00,Newsprint Mills 
+32213.00,Paperboard Mills
+322130.00,Paperboard Mills 
+3222.00,Converted Paper Product Manufacturing
+32221.00,Paperboard Container Manufacturing
+322211.00,Corrugated and Solid Fiber Box Manufacturing 
+322212.00,Folding Paperboard Box Manufacturing 
+322219.00,Other Paperboard Container Manufacturing 
+32222.00,Paper Bag and Coated and Treated Paper Manufacturing
+322220.00,Paper Bag and Coated and Treated Paper Manufacturing
+32223.00,Stationery Product Manufacturing
+322230.00,Stationery Product Manufacturing
+32229.00,Other Converted Paper Product Manufacturing
+322291.00,Sanitary Paper Product Manufacturing 
+322299.00,All Other Converted Paper Product Manufacturing 
+323.00,Printing and Related Support Activities
+3231.00,Printing and Related Support Activities
+32311.00,Printing
+323111.00,Commercial Printing (except Screen and Books) 
+323113.00,Commercial Screen Printing 
+323117.00,Books Printing 
+32312.00,Support Activities for Printing
+323120.00,Support Activities for Printing
+324.00,Petroleum and Coal Products Manufacturing
+3241.00,Petroleum and Coal Products Manufacturing
+32411.00,Petroleum Refineries
+324110.00,Petroleum Refineries
+32412.00,"Asphalt Paving, Roofing, and Saturated Materials Manufacturing"
+324121.00,Asphalt Paving Mixture and Block Manufacturing 
+324122.00,Asphalt Shingle and Coating Materials Manufacturing 
+32419.00,Other Petroleum and Coal Products Manufacturing
+324191.00,Petroleum Lubricating Oil and Grease Manufacturing 
+324199.00,All Other Petroleum and Coal Products Manufacturing 
+325.00,Chemical Manufacturing
+3251.00,Basic Chemical Manufacturing
+32511.00,Petrochemical Manufacturing
+325110.00,Petrochemical Manufacturing
+32512.00,Industrial Gas Manufacturing
+325120.00,Industrial Gas Manufacturing
+32513.00,Synthetic Dye and Pigment Manufacturing
+325130.00,Synthetic Dye and Pigment Manufacturing
+32518.00,Other Basic Inorganic Chemical Manufacturing
+325180.00,Other Basic Inorganic Chemical Manufacturing 
+32519.00,Other Basic Organic Chemical Manufacturing
+325193.00,Ethyl Alcohol Manufacturing 
+325194.00,"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing "
+325199.00,All Other Basic Organic Chemical Manufacturing 
+3252.00,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing"
+32521.00,Resin and Synthetic Rubber Manufacturing
+325211.00,Plastics Material and Resin Manufacturing 
+325212.00,Synthetic Rubber Manufacturing 
+32522.00,Artificial and Synthetic Fibers and Filaments Manufacturing
+325220.00,Artificial and Synthetic Fibers and Filaments Manufacturing
+3253.00,"Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing"
+32531.00,Fertilizer Manufacturing
+325311.00,Nitrogenous Fertilizer Manufacturing 
+325312.00,Phosphatic Fertilizer Manufacturing 
+325314.00,Fertilizer (Mixing Only) Manufacturing 
+32532.00,Pesticide and Other Agricultural Chemical Manufacturing
+325320.00,Pesticide and Other Agricultural Chemical Manufacturing
+3254.00,Pharmaceutical and Medicine Manufacturing
+32541.00,Pharmaceutical and Medicine Manufacturing
+325411.00,Medicinal and Botanical Manufacturing 
+325412.00,Pharmaceutical Preparation Manufacturing 
+325413.00,In-Vitro Diagnostic Substance Manufacturing 
+325414.00,Biological Product (except Diagnostic) Manufacturing 
+3255.00,"Paint, Coating, and Adhesive Manufacturing"
+32551.00,Paint and Coating Manufacturing
+325510.00,Paint and Coating Manufacturing
+32552.00,Adhesive Manufacturing
+325520.00,Adhesive Manufacturing
+3256.00,"Soap, Cleaning Compound, and Toilet Preparation Manufacturing"
+32561.00,Soap and Cleaning Compound Manufacturing
+325611.00,Soap and Other Detergent Manufacturing 
+325612.00,Polish and Other Sanitation Good Manufacturing 
+325613.00,Surface Active Agent Manufacturing 
+32562.00,Toilet Preparation Manufacturing
+325620.00,Toilet Preparation Manufacturing
+3259.00,Other Chemical Product and Preparation Manufacturing
+32591.00,Printing Ink Manufacturing
+325910.00,Printing Ink Manufacturing
+32592.00,Explosives Manufacturing
+325920.00,Explosives Manufacturing
+32599.00,All Other Chemical Product and Preparation Manufacturing
+325991.00,Custom Compounding of Purchased Resins 
+325992.00,"Photographic Film, Paper, Plate, and Chemical Manufacturing "
+325998.00,All Other Miscellaneous Chemical Product and Preparation Manufacturing 
+326.00,Plastics and Rubber Products Manufacturing
+3261.00,Plastics Product Manufacturing
+32611.00,Plastics Packaging Materials and Unlaminated Film and Sheet Manufacturing
+326111.00,Plastics Bag and Pouch Manufacturing 
+326112.00,Plastics Packaging Film and Sheet (including Laminated) Manufacturing 
+326113.00,Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing 
+32612.00,"Plastics Pipe, Pipe Fitting, and Unlaminated Profile Shape Manufacturing"
+326121.00,Unlaminated Plastics Profile Shape Manufacturing 
+326122.00,Plastics Pipe and Pipe Fitting Manufacturing 
+32613.00,"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing"
+326130.00,"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing"
+32614.00,Polystyrene Foam Product Manufacturing
+326140.00,Polystyrene Foam Product Manufacturing
+32615.00,Urethane and Other Foam Product (except Polystyrene) Manufacturing
+326150.00,Urethane and Other Foam Product (except Polystyrene) Manufacturing
+32616.00,Plastics Bottle Manufacturing
+326160.00,Plastics Bottle Manufacturing
+32619.00,Other Plastics Product Manufacturing
+326191.00,Plastics Plumbing Fixture Manufacturing 
+326199.00,All Other Plastics Product Manufacturing 
+3262.00,Rubber Product Manufacturing
+32621.00,Tire Manufacturing
+326211.00,Tire Manufacturing (except Retreading) 
+326212.00,Tire Retreading 
+32622.00,Rubber and Plastics Hoses and Belting Manufacturing
+326220.00,Rubber and Plastics Hoses and Belting Manufacturing
+32629.00,Other Rubber Product Manufacturing
+326291.00,Rubber Product Manufacturing for Mechanical Use 
+326299.00,All Other Rubber Product Manufacturing 
+327.00,Nonmetallic Mineral Product Manufacturing
+3271.00,Clay Product and Refractory Manufacturing
+32711.00,"Pottery, Ceramics, and Plumbing Fixture Manufacturing"
+327110.00,"Pottery, Ceramics, and Plumbing Fixture Manufacturing "
+32712.00,Clay Building Material and Refractories Manufacturing
+327120.00,Clay Building Material and Refractories Manufacturing 
+3272.00,Glass and Glass Product Manufacturing
+32721.00,Glass and Glass Product Manufacturing
+327211.00,Flat Glass Manufacturing 
+327212.00,Other Pressed and Blown Glass and Glassware Manufacturing 
+327213.00,Glass Container Manufacturing 
+327215.00,Glass Product Manufacturing Made of Purchased Glass 
+3273.00,Cement and Concrete Product Manufacturing
+32731.00,Cement Manufacturing
+327310.00,Cement Manufacturing
+32732.00,Ready-Mix Concrete Manufacturing
+327320.00,Ready-Mix Concrete Manufacturing
+32733.00,"Concrete Pipe, Brick, and Block Manufacturing"
+327331.00,Concrete Block and Brick Manufacturing 
+327332.00,Concrete Pipe Manufacturing 
+32739.00,Other Concrete Product Manufacturing
+327390.00,Other Concrete Product Manufacturing 
+3274.00,Lime and Gypsum Product Manufacturing
+32741.00,Lime Manufacturing
+327410.00,Lime Manufacturing
+32742.00,Gypsum Product Manufacturing
+327420.00,Gypsum Product Manufacturing
+3279.00,Other Nonmetallic Mineral Product Manufacturing
+32791.00,Abrasive Product Manufacturing
+327910.00,Abrasive Product Manufacturing
+32799.00,All Other Nonmetallic Mineral Product Manufacturing
+327991.00,Cut Stone and Stone Product Manufacturing 
+327992.00,Ground or Treated Mineral and Earth Manufacturing 
+327993.00,Mineral Wool Manufacturing 
+327999.00,All Other Miscellaneous Nonmetallic Mineral Product Manufacturing 
+331.00,Primary Metal Manufacturing
+3311.00,Iron and Steel Mills and Ferroalloy Manufacturing
+33111.00,Iron and Steel Mills and Ferroalloy Manufacturing
+331110.00,Iron and Steel Mills and Ferroalloy Manufacturing 
+3312.00,Steel Product Manufacturing from Purchased Steel
+33121.00,Iron and Steel Pipe and Tube Manufacturing from Purchased Steel
+331210.00,Iron and Steel Pipe and Tube Manufacturing from Purchased Steel
+33122.00,Rolling and Drawing of Purchased Steel
+331221.00,Rolled Steel Shape Manufacturing 
+331222.00,Steel Wire Drawing 
+3313.00,Alumina and Aluminum Production and Processing
+33131.00,Alumina and Aluminum Production and Processing
+331313.00,Alumina Refining and Primary Aluminum Production 
+331314.00,Secondary Smelting and Alloying of Aluminum 
+331315.00,"Aluminum Sheet, Plate, and Foil Manufacturing "
+331318.00,"Other Aluminum Rolling, Drawing, and Extruding "
+3314.00,Nonferrous Metal (except Aluminum) Production and Processing
+33141.00,Nonferrous Metal (except Aluminum) Smelting and Refining
+331410.00,Nonferrous Metal (except Aluminum) Smelting and Refining 
+33142.00,"Copper Rolling, Drawing, Extruding, and Alloying"
+331420.00,"Copper Rolling, Drawing, Extruding, and Alloying"
+33149.00,"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, Extruding, and Alloying"
+331491.00,"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding "
+331492.00,"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) "
+3315.00,Foundries
+33151.00,Ferrous Metal Foundries
+331511.00,Iron Foundries 
+331512.00,Steel Investment Foundries 
+331513.00,Steel Foundries (except Investment) 
+33152.00,Nonferrous Metal Foundries
+331523.00,Nonferrous Metal Die-Casting Foundries 
+331524.00,Aluminum Foundries (except Die-Casting) 
+331529.00,Other Nonferrous Metal Foundries (except Die-Casting) 
+332.00,Fabricated Metal Product Manufacturing
+3321.00,Forging and Stamping
+33211.00,Forging and Stamping
+332111.00,Iron and Steel Forging 
+332112.00,Nonferrous Forging 
+332114.00,Custom Roll Forming 
+332117.00,Powder Metallurgy Part Manufacturing 
+332119.00,"Metal Crown, Closure, and Other Metal Stamping (except Automotive) "
+3322.00,Cutlery and Handtool Manufacturing
+33221.00,Cutlery and Handtool Manufacturing
+332215.00,"Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing "
+332216.00,Saw Blade and Handtool Manufacturing 
+3323.00,Architectural and Structural Metals Manufacturing
+33231.00,Plate Work and Fabricated Structural Product Manufacturing
+332311.00,Prefabricated Metal Building and Component Manufacturing 
+332312.00,Fabricated Structural Metal Manufacturing 
+332313.00,Plate Work Manufacturing 
+33232.00,Ornamental and Architectural Metal Products Manufacturing
+332321.00,Metal Window and Door Manufacturing 
+332322.00,Sheet Metal Work Manufacturing 
+332323.00,Ornamental and Architectural Metal Work Manufacturing 
+3324.00,"Boiler, Tank, and Shipping Container Manufacturing"
+33241.00,Power Boiler and Heat Exchanger Manufacturing
+332410.00,Power Boiler and Heat Exchanger Manufacturing
+33242.00,Metal Tank (Heavy Gauge) Manufacturing
+332420.00,Metal Tank (Heavy Gauge) Manufacturing
+33243.00,"Metal Can, Box, and Other Metal Container (Light Gauge) Manufacturing"
+332431.00,Metal Can Manufacturing 
+332439.00,Other Metal Container Manufacturing 
+3325.00,Hardware Manufacturing
+33251.00,Hardware Manufacturing
+332510.00,Hardware Manufacturing
+3326.00,Spring and Wire Product Manufacturing
+33261.00,Spring and Wire Product Manufacturing
+332613.00,Spring Manufacturing 
+332618.00,Other Fabricated Wire Product Manufacturing 
+3327.00,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing"
+33271.00,Machine Shops
+332710.00,Machine Shops
+33272.00,"Turned Product and Screw, Nut, and Bolt Manufacturing"
+332721.00,Precision Turned Product Manufacturing 
+332722.00,"Bolt, Nut, Screw, Rivet, and Washer Manufacturing "
+3328.00,"Coating, Engraving, Heat Treating, and Allied Activities"
+33281.00,"Coating, Engraving, Heat Treating, and Allied Activities"
+332811.00,Metal Heat Treating 
+332812.00,"Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers "
+332813.00,"Electroplating, Plating, Polishing, Anodizing, and Coloring "
+3329.00,Other Fabricated Metal Product Manufacturing
+33291.00,Metal Valve Manufacturing
+332911.00,Industrial Valve Manufacturing 
+332912.00,Fluid Power Valve and Hose Fitting Manufacturing 
+332913.00,Plumbing Fixture Fitting and Trim Manufacturing 
+332919.00,Other Metal Valve and Pipe Fitting Manufacturing 
+33299.00,All Other Fabricated Metal Product Manufacturing
+332991.00,Ball and Roller Bearing Manufacturing
+332992.00,Small Arms Ammunition Manufacturing 
+332993.00,Ammunition (except Small Arms) Manufacturing 
+332994.00,"Small Arms, Ordnance, and Ordnance Accessories Manufacturing "
+332996.00,Fabricated Pipe and Pipe Fitting Manufacturing 
+332999.00,All Other Miscellaneous Fabricated Metal Product Manufacturing 
+333.00,Machinery Manufacturing
+3331.00,"Agriculture, Construction, and Mining Machinery Manufacturing"
+33311.00,Agricultural Implement Manufacturing
+333111.00,Farm Machinery and Equipment Manufacturing 
+333112.00,Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing 
+33312.00,Construction Machinery Manufacturing
+333120.00,Construction Machinery Manufacturing
+33313.00,Mining and Oil and Gas Field Machinery Manufacturing
+333131.00,Mining Machinery and Equipment Manufacturing 
+333132.00,Oil and Gas Field Machinery and Equipment Manufacturing 
+3332.00,Industrial Machinery Manufacturing
+33324.00,Industrial Machinery Manufacturing
+333241.00,Food Product Machinery Manufacturing 
+333242.00,Semiconductor Machinery Manufacturing 
+333243.00,"Sawmill, Woodworking, and Paper Machinery Manufacturing "
+333244.00,Printing Machinery and Equipment Manufacturing 
+333249.00,Other Industrial Machinery Manufacturing 
+3333.00,Commercial and Service Industry Machinery Manufacturing
+33331.00,Commercial and Service Industry Machinery Manufacturing
+333314.00,Optical Instrument and Lens Manufacturing 
+333316.00,Photographic and Photocopying Equipment Manufacturing 
+333318.00,Other Commercial and Service Industry Machinery Manufacturing 
+3334.00,"Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing"
+33341.00,"Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing"
+333413.00,Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing 
+333414.00,Heating Equipment (except Warm Air Furnaces) Manufacturing 
+333415.00,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing 
+3335.00,Metalworking Machinery Manufacturing
+33351.00,Metalworking Machinery Manufacturing
+333511.00,Industrial Mold Manufacturing 
+333514.00,"Special Die and Tool, Die Set, Jig, and Fixture Manufacturing "
+333515.00,Cutting Tool and Machine Tool Accessory Manufacturing 
+333517.00,Machine Tool Manufacturing 
+333519.00,Rolling Mill and Other Metalworking Machinery Manufacturing 
+3336.00,"Engine, Turbine, and Power Transmission Equipment Manufacturing"
+33361.00,"Engine, Turbine, and Power Transmission Equipment Manufacturing"
+333611.00,Turbine and Turbine Generator Set Units Manufacturing 
+333612.00,"Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing "
+333613.00,Mechanical Power Transmission Equipment Manufacturing 
+333618.00,Other Engine Equipment Manufacturing 
+3339.00,Other General Purpose Machinery Manufacturing
+33391.00,Pump and Compressor Manufacturing
+333912.00,Air and Gas Compressor Manufacturing 
+333914.00,"Measuring, Dispensing, and Other Pumping Equipment Manufacturing "
+33392.00,Material Handling Equipment Manufacturing
+333921.00,Elevator and Moving Stairway Manufacturing 
+333922.00,Conveyor and Conveying Equipment Manufacturing 
+333923.00,"Overhead Traveling Crane, Hoist, and Monorail System Manufacturing "
+333924.00,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing "
+33399.00,All Other General Purpose Machinery Manufacturing
+333991.00,Power-Driven Handtool Manufacturing 
+333992.00,Welding and Soldering Equipment Manufacturing 
+333993.00,Packaging Machinery Manufacturing 
+333994.00,Industrial Process Furnace and Oven Manufacturing 
+333995.00,Fluid Power Cylinder and Actuator Manufacturing 
+333996.00,Fluid Power Pump and Motor Manufacturing 
+333997.00,Scale and Balance Manufacturing 
+333999.00,All Other Miscellaneous General Purpose Machinery Manufacturing 
+334.00,Computer and Electronic Product Manufacturing
+3341.00,Computer and Peripheral Equipment Manufacturing
+33411.00,Computer and Peripheral Equipment Manufacturing
+334111.00,Electronic Computer Manufacturing 
+334112.00,Computer Storage Device Manufacturing 
+334118.00,Computer Terminal and Other Computer Peripheral Equipment Manufacturing 
+3342.00,Communications Equipment Manufacturing
+33421.00,Telephone Apparatus Manufacturing
+334210.00,Telephone Apparatus Manufacturing
+33422.00,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing
+334220.00,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing
+33429.00,Other Communications Equipment Manufacturing
+334290.00,Other Communications Equipment Manufacturing
+3343.00,Audio and Video Equipment Manufacturing
+33431.00,Audio and Video Equipment Manufacturing
+334310.00,Audio and Video Equipment Manufacturing
+3344.00,Semiconductor and Other Electronic Component Manufacturing
+33441.00,Semiconductor and Other Electronic Component Manufacturing
+334412.00,Bare Printed Circuit Board Manufacturing  
+334413.00,Semiconductor and Related Device Manufacturing 
+334416.00,"Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing "
+334417.00,Electronic Connector Manufacturing 
+334418.00,Printed Circuit Assembly (Electronic Assembly) Manufacturing 
+334419.00,Other Electronic Component Manufacturing 
+3345.00,"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing"
+33451.00,"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing"
+334510.00,Electromedical and Electrotherapeutic Apparatus Manufacturing 
+334511.00,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing "
+334512.00,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use "
+334513.00,"Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables "
+334514.00,Totalizing Fluid Meter and Counting Device Manufacturing 
+334515.00,Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals 
+334516.00,Analytical Laboratory Instrument Manufacturing 
+334517.00,Irradiation Apparatus Manufacturing 
+334519.00,Other Measuring and Controlling Device Manufacturing 
+3346.00,Manufacturing and Reproducing Magnetic and Optical Media
+33461.00,Manufacturing and Reproducing Magnetic and Optical Media
+334613.00,Blank Magnetic and Optical Recording Media Manufacturing 
+334614.00,"Software and Other Prerecorded Compact Disc, Tape, and Record Reproducing "
+335.00,"Electrical Equipment, Appliance, and Component Manufacturing"
+3351.00,Electric Lighting Equipment Manufacturing
+33511.00,Electric Lamp Bulb and Part Manufacturing
+335110.00,Electric Lamp Bulb and Part Manufacturing
+33512.00,Lighting Fixture Manufacturing
+335121.00,Residential Electric Lighting Fixture Manufacturing 
+335122.00,"Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing "
+335129.00,Other Lighting Equipment Manufacturing 
+3352.00,Household Appliance Manufacturing
+33521.00,Small Electrical Appliance Manufacturing
+335210.00,Small Electrical Appliance Manufacturing
+33522.00,Major Household Appliance Manufacturing 
+335220.00,Major Household Appliance Manufacturing 
+3353.00,Electrical Equipment Manufacturing
+33531.00,Electrical Equipment Manufacturing
+335311.00,"Power, Distribution, and Specialty Transformer Manufacturing "
+335312.00,Motor and Generator Manufacturing 
+335313.00,Switchgear and Switchboard Apparatus Manufacturing 
+335314.00,Relay and Industrial Control Manufacturing 
+3359.00,Other Electrical Equipment and Component Manufacturing
+33591.00,Battery Manufacturing
+335911.00,Storage Battery Manufacturing 
+335912.00,Primary Battery Manufacturing 
+33592.00,Communication and Energy Wire and Cable Manufacturing
+335921.00,Fiber Optic Cable Manufacturing 
+335929.00,Other Communication and Energy Wire Manufacturing 
+33593.00,Wiring Device Manufacturing
+335931.00,Current-Carrying Wiring Device Manufacturing 
+335932.00,Noncurrent-Carrying Wiring Device Manufacturing 
+33599.00,All Other Electrical Equipment and Component Manufacturing
+335991.00,Carbon and Graphite Product Manufacturing 
+335999.00,All Other Miscellaneous Electrical Equipment and Component Manufacturing 
+336.00,Transportation Equipment Manufacturing
+3361.00,Motor Vehicle Manufacturing
+33611.00,Automobile and Light Duty Motor Vehicle Manufacturing
+336111.00,Automobile Manufacturing 
+336112.00,Light Truck and Utility Vehicle Manufacturing 
+33612.00,Heavy Duty Truck Manufacturing
+336120.00,Heavy Duty Truck Manufacturing
+3362.00,Motor Vehicle Body and Trailer Manufacturing
+33621.00,Motor Vehicle Body and Trailer Manufacturing
+336211.00,Motor Vehicle Body Manufacturing 
+336212.00,Truck Trailer Manufacturing 
+336213.00,Motor Home Manufacturing 
+336214.00,Travel Trailer and Camper Manufacturing 
+3363.00,Motor Vehicle Parts Manufacturing
+33631.00,Motor Vehicle Gasoline Engine and Engine Parts Manufacturing
+336310.00,Motor Vehicle Gasoline Engine and Engine Parts Manufacturing
+33632.00,Motor Vehicle Electrical and Electronic Equipment Manufacturing
+336320.00,Motor Vehicle Electrical and Electronic Equipment Manufacturing
+33633.00,Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing
+336330.00,Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing
+33634.00,Motor Vehicle Brake System Manufacturing
+336340.00,Motor Vehicle Brake System Manufacturing
+33635.00,Motor Vehicle Transmission and Power Train Parts Manufacturing
+336350.00,Motor Vehicle Transmission and Power Train Parts Manufacturing
+33636.00,Motor Vehicle Seating and Interior Trim Manufacturing
+336360.00,Motor Vehicle Seating and Interior Trim Manufacturing
+33637.00,Motor Vehicle Metal Stamping
+336370.00,Motor Vehicle Metal Stamping
+33639.00,Other Motor Vehicle Parts Manufacturing
+336390.00,Other Motor Vehicle Parts Manufacturing
+3364.00,Aerospace Product and Parts Manufacturing
+33641.00,Aerospace Product and Parts Manufacturing
+336411.00,Aircraft Manufacturing 
+336412.00,Aircraft Engine and Engine Parts Manufacturing 
+336413.00,Other Aircraft Parts and Auxiliary Equipment Manufacturing 
+336414.00,Guided Missile and Space Vehicle Manufacturing 
+336415.00,Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing 
+336419.00,Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing 
+3365.00,Railroad Rolling Stock Manufacturing
+33651.00,Railroad Rolling Stock Manufacturing
+336510.00,Railroad Rolling Stock Manufacturing
+3366.00,Ship and Boat Building
+33661.00,Ship and Boat Building
+336611.00,Ship Building and Repairing 
+336612.00,Boat Building 
+3369.00,Other Transportation Equipment Manufacturing
+33699.00,Other Transportation Equipment Manufacturing
+336991.00,"Motorcycle, Bicycle, and Parts Manufacturing "
+336992.00,"Military Armored Vehicle, Tank, and Tank Component Manufacturing "
+336999.00,All Other Transportation Equipment Manufacturing 
+337.00,Furniture and Related Product Manufacturing
+3371.00,Household and Institutional Furniture and Kitchen Cabinet Manufacturing
+33711.00,Wood Kitchen Cabinet and Countertop Manufacturing
+337110.00,Wood Kitchen Cabinet and Countertop Manufacturing
+33712.00,Household and Institutional Furniture Manufacturing
+337121.00,Upholstered Household Furniture Manufacturing 
+337122.00,Nonupholstered Wood Household Furniture Manufacturing 
+337124.00,Metal Household Furniture Manufacturing 
+337125.00,Household Furniture (except Wood and Metal) Manufacturing 
+337127.00,Institutional Furniture Manufacturing 
+3372.00,Office Furniture (including Fixtures) Manufacturing
+33721.00,Office Furniture (including Fixtures) Manufacturing
+337211.00,Wood Office Furniture Manufacturing 
+337212.00,Custom Architectural Woodwork and Millwork Manufacturing 
+337214.00,Office Furniture (except Wood) Manufacturing 
+337215.00,"Showcase, Partition, Shelving, and Locker Manufacturing "
+3379.00,Other Furniture Related Product Manufacturing
+33791.00,Mattress Manufacturing
+337910.00,Mattress Manufacturing
+33792.00,Blind and Shade Manufacturing
+337920.00,Blind and Shade Manufacturing
+339.00,Miscellaneous Manufacturing
+3391.00,Medical Equipment and Supplies Manufacturing
+33911.00,Medical Equipment and Supplies Manufacturing
+339112.00,Surgical and Medical Instrument Manufacturing 
+339113.00,Surgical Appliance and Supplies Manufacturing 
+339114.00,Dental Equipment and Supplies Manufacturing 
+339115.00,Ophthalmic Goods Manufacturing 
+339116.00,Dental Laboratories 
+3399.00,Other Miscellaneous Manufacturing
+33991.00,Jewelry and Silverware Manufacturing
+339910.00,Jewelry and Silverware Manufacturing 
+33992.00,Sporting and Athletic Goods Manufacturing
+339920.00,Sporting and Athletic Goods Manufacturing
+33993.00,"Doll, Toy, and Game Manufacturing"
+339930.00,"Doll, Toy, and Game Manufacturing"
+33994.00,Office Supplies (except Paper) Manufacturing
+339940.00,Office Supplies (except Paper) Manufacturing
+33995.00,Sign Manufacturing
+339950.00,Sign Manufacturing
+33999.00,All Other Miscellaneous Manufacturing
+339991.00,"Gasket, Packing, and Sealing Device Manufacturing "
+339992.00,Musical Instrument Manufacturing 
+339993.00,"Fastener, Button, Needle, and Pin Manufacturing "
+339994.00,"Broom, Brush, and Mop Manufacturing "
+339995.00,Burial Casket Manufacturing 
+339999.00,All Other Miscellaneous Manufacturing 
+42.00,Wholesale Trade
+423.00,"Merchant Wholesalers, Durable Goods "
+4231.00,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers 
+42311.00,Automobile and Other Motor Vehicle Merchant Wholesalers 
+423110.00,Automobile and Other Motor Vehicle Merchant Wholesalers 
+42312.00,Motor Vehicle Supplies and New Parts Merchant Wholesalers 
+423120.00,Motor Vehicle Supplies and New Parts Merchant Wholesalers 
+42313.00,Tire and Tube Merchant Wholesalers 
+423130.00,Tire and Tube Merchant Wholesalers 
+42314.00,Motor Vehicle Parts (Used) Merchant Wholesalers 
+423140.00,Motor Vehicle Parts (Used) Merchant Wholesalers 
+4232.00,Furniture and Home Furnishing Merchant Wholesalers 
+42321.00,Furniture Merchant Wholesalers 
+423210.00,Furniture Merchant Wholesalers 
+42322.00,Home Furnishing Merchant Wholesalers 
+423220.00,Home Furnishing Merchant Wholesalers 
+4233.00,Lumber and Other Construction Materials Merchant Wholesalers 
+42331.00,"Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers "
+423310.00,"Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers "
+42332.00,"Brick, Stone, and Related Construction Material Merchant Wholesalers "
+423320.00,"Brick, Stone, and Related Construction Material Merchant Wholesalers "
+42333.00,"Roofing, Siding, and Insulation Material Merchant Wholesalers "
+423330.00,"Roofing, Siding, and Insulation Material Merchant Wholesalers "
+42339.00,Other Construction Material Merchant Wholesalers 
+423390.00,Other Construction Material Merchant Wholesalers 
+4234.00,Professional and Commercial Equipment and Supplies Merchant Wholesalers 
+42341.00,Photographic Equipment and Supplies Merchant Wholesalers 
+423410.00,Photographic Equipment and Supplies Merchant Wholesalers 
+42342.00,Office Equipment Merchant Wholesalers 
+423420.00,Office Equipment Merchant Wholesalers 
+42343.00,Computer and Computer Peripheral Equipment and Software Merchant Wholesalers 
+423430.00,Computer and Computer Peripheral Equipment and Software Merchant Wholesalers 
+42344.00,Other Commercial Equipment Merchant Wholesalers 
+423440.00,Other Commercial Equipment Merchant Wholesalers 
+42345.00,"Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers "
+423450.00,"Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers "
+42346.00,Ophthalmic Goods Merchant Wholesalers 
+423460.00,Ophthalmic Goods Merchant Wholesalers 
+42349.00,Other Professional Equipment and Supplies Merchant Wholesalers 
+423490.00,Other Professional Equipment and Supplies Merchant Wholesalers 
+4235.00,Metal and Mineral (except Petroleum) Merchant Wholesalers 
+42351.00,Metal Service Centers and Other Metal Merchant Wholesalers 
+423510.00,Metal Service Centers and Other Metal Merchant Wholesalers 
+42352.00,Coal and Other Mineral and Ore Merchant Wholesalers 
+423520.00,Coal and Other Mineral and Ore Merchant Wholesalers 
+4236.00,Household Appliances and Electrical and Electronic Goods Merchant Wholesalers 
+42361.00,"Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers "
+423610.00,"Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers "
+42362.00,"Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers "
+423620.00,"Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers "
+42369.00,Other Electronic Parts and Equipment Merchant Wholesalers 
+423690.00,Other Electronic Parts and Equipment Merchant Wholesalers 
+4237.00,"Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers "
+42371.00,Hardware Merchant Wholesalers 
+423710.00,Hardware Merchant Wholesalers 
+42372.00,Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers 
+423720.00,Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers 
+42373.00,Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers 
+423730.00,Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers 
+42374.00,Refrigeration Equipment and Supplies Merchant Wholesalers 
+423740.00,Refrigeration Equipment and Supplies Merchant Wholesalers 
+4238.00,"Machinery, Equipment, and Supplies Merchant Wholesalers "
+42381.00,Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers 
+423810.00,Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers 
+42382.00,Farm and Garden Machinery and Equipment Merchant Wholesalers 
+423820.00,Farm and Garden Machinery and Equipment Merchant Wholesalers 
+42383.00,Industrial Machinery and Equipment Merchant Wholesalers 
+423830.00,Industrial Machinery and Equipment Merchant Wholesalers 
+42384.00,Industrial Supplies Merchant Wholesalers 
+423840.00,Industrial Supplies Merchant Wholesalers
+42385.00,Service Establishment Equipment and Supplies Merchant Wholesalers 
+423850.00,Service Establishment Equipment and Supplies Merchant Wholesalers 
+42386.00,Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers 
+423860.00,Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers 
+4239.00,Miscellaneous Durable Goods Merchant Wholesalers 
+42391.00,Sporting and Recreational Goods and Supplies Merchant Wholesalers
+423910.00,Sporting and Recreational Goods and Supplies Merchant Wholesalers 
+42392.00,Toy and Hobby Goods and Supplies Merchant Wholesalers 
+423920.00,Toy and Hobby Goods and Supplies Merchant Wholesalers 
+42393.00,Recyclable Material Merchant Wholesalers 
+423930.00,Recyclable Material Merchant Wholesalers 
+42394.00,"Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers "
+423940.00,"Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers "
+42399.00,Other Miscellaneous Durable Goods Merchant Wholesalers 
+423990.00,Other Miscellaneous Durable Goods Merchant Wholesalers 
+424.00,"Merchant Wholesalers, Nondurable Goods "
+4241.00,Paper and Paper Product Merchant Wholesalers 
+42411.00,Printing and Writing Paper Merchant Wholesalers 
+424110.00,Printing and Writing Paper Merchant Wholesalers 
+42412.00,Stationery and Office Supplies Merchant Wholesalers 
+424120.00,Stationery and Office Supplies Merchant Wholesalers 
+42413.00,Industrial and Personal Service Paper Merchant Wholesalers 
+424130.00,Industrial and Personal Service Paper Merchant Wholesalers 
+4242.00,Drugs and Druggists' Sundries Merchant Wholesalers 
+42421.00,Drugs and Druggists' Sundries Merchant Wholesalers 
+424210.00,Drugs and Druggists' Sundries Merchant Wholesalers 
+4243.00,"Apparel, Piece Goods, and Notions Merchant Wholesalers "
+42431.00,"Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers "
+424310.00,"Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers "
+42432.00,Men's and Boys' Clothing and Furnishings Merchant Wholesalers 
+424320.00,Men's and Boys' Clothing and Furnishings Merchant Wholesalers 
+42433.00,"Women's, Children's, and Infants' Clothing and Accessories Merchant Wholesalers "
+424330.00,"Women's, Children's, and Infants' Clothing and Accessories Merchant Wholesalers "
+42434.00,Footwear Merchant Wholesalers 
+424340.00,Footwear Merchant Wholesalers 
+4244.00,Grocery and Related Product Merchant Wholesalers 
+42441.00,General Line Grocery Merchant Wholesalers 
+424410.00,General Line Grocery Merchant Wholesalers 
+42442.00,Packaged Frozen Food Merchant Wholesalers 
+424420.00,Packaged Frozen Food Merchant Wholesalers 
+42443.00,Dairy Product (except Dried or Canned) Merchant Wholesalers 
+424430.00,Dairy Product (except Dried or Canned) Merchant Wholesalers 
+42444.00,Poultry and Poultry Product Merchant Wholesalers 
+424440.00,Poultry and Poultry Product Merchant Wholesalers 
+42445.00,Confectionery Merchant Wholesalers 
+424450.00,Confectionery Merchant Wholesalers 
+42446.00,Fish and Seafood Merchant Wholesalers 
+424460.00,Fish and Seafood Merchant Wholesalers 
+42447.00,Meat and Meat Product Merchant Wholesalers 
+424470.00,Meat and Meat Product Merchant Wholesalers 
+42448.00,Fresh Fruit and Vegetable Merchant Wholesalers 
+424480.00,Fresh Fruit and Vegetable Merchant Wholesalers 
+42449.00,Other Grocery and Related Products Merchant Wholesalers 
+424490.00,Other Grocery and Related Products Merchant Wholesalers 
+4245.00,Farm Product Raw Material Merchant Wholesalers 
+42451.00,Grain and Field Bean Merchant Wholesalers 
+424510.00,Grain and Field Bean Merchant Wholesalers 
+42452.00,Livestock Merchant Wholesalers 
+424520.00,Livestock Merchant Wholesalers 
+42459.00,Other Farm Product Raw Material Merchant Wholesalers 
+424590.00,Other Farm Product Raw Material Merchant Wholesalers 
+4246.00,Chemical and Allied Products Merchant Wholesalers 
+42461.00,Plastics Materials and Basic Forms and Shapes Merchant Wholesalers 
+424610.00,Plastics Materials and Basic Forms and Shapes Merchant Wholesalers 
+42469.00,Other Chemical and Allied Products Merchant Wholesalers 
+424690.00,Other Chemical and Allied Products Merchant Wholesalers 
+4247.00,Petroleum and Petroleum Products Merchant Wholesalers 
+42471.00,Petroleum Bulk Stations and Terminals 
+424710.00,Petroleum Bulk Stations and Terminals 
+42472.00,Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals) 
+424720.00,Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals) 
+4248.00,"Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers "
+42481.00,Beer and Ale Merchant Wholesalers 
+424810.00,Beer and Ale Merchant Wholesalers 
+42482.00,Wine and Distilled Alcoholic Beverage Merchant Wholesalers 
+424820.00,Wine and Distilled Alcoholic Beverage Merchant Wholesalers 
+4249.00,Miscellaneous Nondurable Goods Merchant Wholesalers 
+42491.00,Farm Supplies Merchant Wholesalers 
+424910.00,Farm Supplies Merchant Wholesalers 
+42492.00,"Book, Periodical, and Newspaper Merchant Wholesalers "
+424920.00,"Book, Periodical, and Newspaper Merchant Wholesalers "
+42493.00,"Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers "
+424930.00,"Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers "
+42494.00,Tobacco and Tobacco Product Merchant Wholesalers 
+424940.00,Tobacco and Tobacco Product Merchant Wholesalers 
+42495.00,"Paint, Varnish, and Supplies Merchant Wholesalers "
+424950.00,"Paint, Varnish, and Supplies Merchant Wholesalers "
+42499.00,Other Miscellaneous Nondurable Goods Merchant Wholesalers 
+424990.00,Other Miscellaneous Nondurable Goods Merchant Wholesalers 
+425.00,Wholesale Electronic Markets and Agents and Brokers 
+4251.00,Wholesale Electronic Markets and Agents and Brokers 
+42511.00,Business to Business Electronic Markets 
+425110.00,Business to Business Electronic Markets 
+42512.00,Wholesale Trade Agents and Brokers 
+425120.00,Wholesale Trade Agents and Brokers 
+441.00,Motor Vehicle and Parts Dealers 
+4411.00,Automobile Dealers 
+44111.00,New Car Dealers 
+441110.00,New Car Dealers 
+44112.00,Used Car Dealers 
+441120.00,Used Car Dealers 
+4412.00,Other Motor Vehicle Dealers 
+44121.00,Recreational Vehicle Dealers 
+441210.00,Recreational Vehicle Dealers 
+44122.00,"Motorcycle, Boat, and Other Motor Vehicle Dealers "
+441222.00,Boat Dealers 
+441228.00,"Motorcycle, ATV, and All Other Motor Vehicle Dealers "
+4413.00,"Automotive Parts, Accessories, and Tire Stores "
+44131.00,Automotive Parts and Accessories Stores 
+441310.00,Automotive Parts and Accessories Stores 
+44132.00,Tire Dealers 
+441320.00,Tire Dealers 
+442.00,Furniture and Home Furnishings Stores 
+4421.00,Furniture Stores 
+44211.00,Furniture Stores 
+442110.00,Furniture Stores 
+4422.00,Home Furnishings Stores 
+44221.00,Floor Covering Stores 
+442210.00,Floor Covering Stores 
+44229.00,Other Home Furnishings Stores 
+442291.00,Window Treatment Stores 
+442299.00,All Other Home Furnishings Stores 
+443.00,Electronics and Appliance Stores 
+4431.00,Electronics and Appliance Stores 
+44314.00,Electronics and Appliance Stores 
+443141.00,Household Appliance Stores 
+443142.00,Electronics Stores 
+444.00,Building Material and Garden Equipment and Supplies Dealers 
+4441.00,Building Material and Supplies Dealers 
+44411.00,Home Centers 
+444110.00,Home Centers 
+44412.00,Paint and Wallpaper Stores 
+444120.00,Paint and Wallpaper Stores 
+44413.00,Hardware Stores 
+444130.00,Hardware Stores 
+44419.00,Other Building Material Dealers 
+444190.00,Other Building Material Dealers 
+4442.00,Lawn and Garden Equipment and Supplies Stores 
+44421.00,Outdoor Power Equipment Stores 
+444210.00,Outdoor Power Equipment Stores 
+44422.00,"Nursery, Garden Center, and Farm Supply Stores "
+444220.00,"Nursery, Garden Center, and Farm Supply Stores "
+445.00,Food and Beverage Stores 
+4451.00,Grocery Stores 
+44511.00,Supermarkets and Other Grocery (except Convenience) Stores 
+445110.00,Supermarkets and Other Grocery (except Convenience) Stores 
+44512.00,Convenience Stores 
+445120.00,Convenience Stores 
+4452.00,Specialty Food Stores 
+44521.00,Meat Markets 
+445210.00,Meat Markets 
+44522.00,Fish and Seafood Markets 
+445220.00,Fish and Seafood Markets 
+44523.00,Fruit and Vegetable Markets 
+445230.00,Fruit and Vegetable Markets 
+44529.00,Other Specialty Food Stores 
+445291.00,Baked Goods Stores 
+445292.00,Confectionery and Nut Stores 
+445299.00,All Other Specialty Food Stores 
+4453.00,"Beer, Wine, and Liquor Stores "
+44531.00,"Beer, Wine, and Liquor Stores "
+445310.00,"Beer, Wine, and Liquor Stores "
+446.00,Health and Personal Care Stores 
+4461.00,Health and Personal Care Stores 
+44611.00,Pharmacies and Drug Stores 
+446110.00,Pharmacies and Drug Stores 
+44612.00,"Cosmetics, Beauty Supplies, and Perfume Stores "
+446120.00,"Cosmetics, Beauty Supplies, and Perfume Stores "
+44613.00,Optical Goods Stores 
+446130.00,Optical Goods Stores 
+44619.00,Other Health and Personal Care Stores 
+446191.00,Food (Health) Supplement Stores 
+446199.00,All Other Health and Personal Care Stores 
+447.00,Gasoline Stations 
+4471.00,Gasoline Stations 
+44711.00,Gasoline Stations with Convenience Stores 
+447110.00,Gasoline Stations with Convenience Stores 
+44719.00,Other Gasoline Stations 
+447190.00,Other Gasoline Stations 
+448.00,Clothing and Clothing Accessories Stores 
+4481.00,Clothing Stores 
+44811.00,Men's Clothing Stores 
+448110.00,Men's Clothing Stores 
+44812.00,Women's Clothing Stores 
+448120.00,Women's Clothing Stores 
+44813.00,Children's and Infants' Clothing Stores 
+448130.00,Children's and Infants' Clothing Stores 
+44814.00,Family Clothing Stores 
+448140.00,Family Clothing Stores 
+44815.00,Clothing Accessories Stores 
+448150.00,Clothing Accessories Stores 
+44819.00,Other Clothing Stores 
+448190.00,Other Clothing Stores 
+4482.00,Shoe Stores 
+44821.00,Shoe Stores 
+448210.00,Shoe Stores 
+4483.00,"Jewelry, Luggage, and Leather Goods Stores "
+44831.00,Jewelry Stores 
+448310.00,Jewelry Stores 
+44832.00,Luggage and Leather Goods Stores 
+448320.00,Luggage and Leather Goods Stores 
+451.00,"Sporting Goods, Hobby, Musical Instrument, and Book Stores "
+4511.00,"Sporting Goods, Hobby, and Musical Instrument Stores "
+45111.00,Sporting Goods Stores 
+451110.00,Sporting Goods Stores 
+45112.00,"Hobby, Toy, and Game Stores "
+451120.00,"Hobby, Toy, and Game Stores "
+45113.00,"Sewing, Needlework, and Piece Goods Stores "
+451130.00,"Sewing, Needlework, and Piece Goods Stores "
+45114.00,Musical Instrument and Supplies Stores 
+451140.00,Musical Instrument and Supplies Stores 
+4512.00,Book Stores and News Dealers 
+45121.00,Book Stores and News Dealers 
+451211.00,Book Stores 
+451212.00,News Dealers and Newsstands 
+452.00,General Merchandise Stores 
+4522.00,Department Stores 
+45221.00,Department Stores 
+452210.00,Department Stores 
+4523.00,"General Merchandise Stores, including Warehouse Clubs and Supercenters "
+45231.00,"General Merchandise Stores, including Warehouse Clubs and Supercenters "
+452311.00,Warehouse Clubs and Supercenters 
+452319.00,All Other General Merchandise Stores 
+453.00,Miscellaneous Store Retailers 
+4531.00,Florists 
+45311.00,Florists 
+453110.00,Florists 
+4532.00,"Office Supplies, Stationery, and Gift Stores "
+45321.00,Office Supplies and Stationery Stores 
+453210.00,Office Supplies and Stationery Stores 
+45322.00,"Gift, Novelty, and Souvenir Stores "
+453220.00,"Gift, Novelty, and Souvenir Stores "
+4533.00,Used Merchandise Stores 
+45331.00,Used Merchandise Stores 
+453310.00,Used Merchandise Stores 
+4539.00,Other Miscellaneous Store Retailers 
+45391.00,Pet and Pet Supplies Stores 
+453910.00,Pet and Pet Supplies Stores 
+45392.00,Art Dealers 
+453920.00,Art Dealers 
+45393.00,Manufactured (Mobile) Home Dealers 
+453930.00,Manufactured (Mobile) Home Dealers 
+45399.00,All Other Miscellaneous Store Retailers 
+453991.00,Tobacco Stores 
+453998.00,All Other Miscellaneous Store Retailers (except Tobacco Stores) 
+454.00,Nonstore Retailers 
+4541.00,Electronic Shopping and Mail-Order Houses 
+45411.00,Electronic Shopping and Mail-Order Houses 
+454110.00,Electronic Shopping and Mail-Order Houses 
+4542.00,Vending Machine Operators 
+45421.00,Vending Machine Operators 
+454210.00,Vending Machine Operators 
+4543.00,Direct Selling Establishments 
+45431.00,Fuel Dealers 
+454310.00,Fuel Dealers 
+45439.00,Other Direct Selling Establishments 
+454390.00,Other Direct Selling Establishments 
+481.00,Air Transportation
+4811.00,Scheduled Air Transportation
+48111.00,Scheduled Air Transportation
+481111.00,Scheduled Passenger Air Transportation 
+481112.00,Scheduled Freight Air Transportation 
+4812.00,Nonscheduled Air Transportation
+48121.00,Nonscheduled Air Transportation
+481211.00,Nonscheduled Chartered Passenger Air Transportation 
+481212.00,Nonscheduled Chartered Freight Air Transportation 
+481219.00,Other Nonscheduled Air Transportation 
+482.00,Rail Transportation
+4821.00,Rail Transportation
+48211.00,Rail Transportation
+482111.00,Line-Haul Railroads 
+482112.00,Short Line Railroads 
+483.00,Water Transportation
+4831.00,"Deep Sea, Coastal, and Great Lakes Water Transportation"
+48311.00,"Deep Sea, Coastal, and Great Lakes Water Transportation"
+483111.00,Deep Sea Freight Transportation 
+483112.00,Deep Sea Passenger Transportation 
+483113.00,Coastal and Great Lakes Freight Transportation 
+483114.00,Coastal and Great Lakes Passenger Transportation 
+4832.00,Inland Water Transportation
+48321.00,Inland Water Transportation
+483211.00,Inland Water Freight Transportation 
+483212.00,Inland Water Passenger Transportation 
+484.00,Truck Transportation
+4841.00,General Freight Trucking
+48411.00,"General Freight Trucking, Local"
+484110.00,"General Freight Trucking, Local "
+48412.00,"General Freight Trucking, Long-Distance"
+484121.00,"General Freight Trucking, Long-Distance, Truckload "
+484122.00,"General Freight Trucking, Long-Distance, Less Than Truckload "
+4842.00,Specialized Freight Trucking
+48421.00,Used Household and Office Goods Moving
+484210.00,Used Household and Office Goods Moving
+48422.00,"Specialized Freight (except Used Goods) Trucking, Local"
+484220.00,"Specialized Freight (except Used Goods) Trucking, Local "
+48423.00,"Specialized Freight (except Used Goods) Trucking, Long-Distance"
+484230.00,"Specialized Freight (except Used Goods) Trucking, Long-Distance "
+485.00,Transit and Ground Passenger Transportation
+4851.00,Urban Transit Systems
+48511.00,Urban Transit Systems
+485111.00,Mixed Mode Transit Systems 
+485112.00,Commuter Rail Systems 
+485113.00,Bus and Other Motor Vehicle Transit Systems 
+485119.00,Other Urban Transit Systems 
+4852.00,Interurban and Rural Bus Transportation
+48521.00,Interurban and Rural Bus Transportation
+485210.00,Interurban and Rural Bus Transportation
+4853.00,Taxi and Limousine Service
+48531.00,Taxi Service
+485310.00,Taxi Service 
+48532.00,Limousine Service
+485320.00,Limousine Service
+4854.00,School and Employee Bus Transportation
+48541.00,School and Employee Bus Transportation
+485410.00,School and Employee Bus Transportation
+4855.00,Charter Bus Industry
+48551.00,Charter Bus Industry
+485510.00,Charter Bus Industry
+4859.00,Other Transit and Ground Passenger Transportation
+48599.00,Other Transit and Ground Passenger Transportation
+485991.00,Special Needs Transportation 
+485999.00,All Other Transit and Ground Passenger Transportation 
+486.00,Pipeline Transportation
+4861.00,Pipeline Transportation of Crude Oil
+48611.00,Pipeline Transportation of Crude Oil
+486110.00,Pipeline Transportation of Crude Oil
+4862.00,Pipeline Transportation of Natural Gas
+48621.00,Pipeline Transportation of Natural Gas
+486210.00,Pipeline Transportation of Natural Gas
+4869.00,Other Pipeline Transportation
+48691.00,Pipeline Transportation of Refined Petroleum Products
+486910.00,Pipeline Transportation of Refined Petroleum Products
+48699.00,All Other Pipeline Transportation
+486990.00,All Other Pipeline Transportation
+487.00,Scenic and Sightseeing Transportation
+4871.00,"Scenic and Sightseeing Transportation, Land"
+48711.00,"Scenic and Sightseeing Transportation, Land"
+487110.00,"Scenic and Sightseeing Transportation, Land"
+4872.00,"Scenic and Sightseeing Transportation, Water"
+48721.00,"Scenic and Sightseeing Transportation, Water"
+487210.00,"Scenic and Sightseeing Transportation, Water"
+4879.00,"Scenic and Sightseeing Transportation, Other"
+48799.00,"Scenic and Sightseeing Transportation, Other"
+487990.00,"Scenic and Sightseeing Transportation, Other"
+488.00,Support Activities for Transportation
+4881.00,Support Activities for Air Transportation
+48811.00,Airport Operations
+488111.00,Air Traffic Control
+488119.00,Other Airport Operations 
+48819.00,Other Support Activities for Air Transportation
+488190.00,Other Support Activities for Air Transportation
+4882.00,Support Activities for Rail Transportation
+48821.00,Support Activities for Rail Transportation
+488210.00,Support Activities for Rail Transportation
+4883.00,Support Activities for Water Transportation
+48831.00,Port and Harbor Operations
+488310.00,Port and Harbor Operations
+48832.00,Marine Cargo Handling
+488320.00,Marine Cargo Handling
+48833.00,Navigational Services to Shipping
+488330.00,Navigational Services to Shipping 
+48839.00,Other Support Activities for Water Transportation
+488390.00,Other Support Activities for Water Transportation
+4884.00,Support Activities for Road Transportation
+48841.00,Motor Vehicle Towing
+488410.00,Motor Vehicle Towing
+48849.00,Other Support Activities for Road Transportation
+488490.00,Other Support Activities for Road Transportation 
+4885.00,Freight Transportation Arrangement
+48851.00,Freight Transportation Arrangement
+488510.00,Freight Transportation Arrangement 
+4889.00,Other Support Activities for Transportation
+48899.00,Other Support Activities for Transportation
+488991.00,Packing and Crating 
+488999.00,All Other Support Activities for Transportation 
+491.00,Postal Service
+4911.00,Postal Service
+49111.00,Postal Service
+491110.00,Postal Service
+492.00,Couriers and Messengers
+4921.00,Couriers and Express Delivery Services
+49211.00,Couriers and Express Delivery Services
+492110.00,Couriers and Express Delivery Services
+4922.00,Local Messengers and Local Delivery
+49221.00,Local Messengers and Local Delivery
+492210.00,Local Messengers and Local Delivery
+493.00,Warehousing and Storage
+4931.00,Warehousing and Storage
+49311.00,General Warehousing and Storage
+493110.00,General Warehousing and Storage 
+49312.00,Refrigerated Warehousing and Storage
+493120.00,Refrigerated Warehousing and Storage
+49313.00,Farm Product Warehousing and Storage
+493130.00,Farm Product Warehousing and Storage
+49319.00,Other Warehousing and Storage
+493190.00,Other Warehousing and Storage
+51.00,Information
+511.00,Publishing Industries (except Internet)
+5111.00,"Newspaper, Periodical, Book, and Directory Publishers"
+51111.00,Newspaper Publishers
+511110.00,Newspaper Publishers 
+51112.00,Periodical Publishers
+511120.00,Periodical Publishers 
+51113.00,Book Publishers
+511130.00,Book Publishers 
+51114.00,Directory and Mailing List Publishers
+511140.00,Directory and Mailing List Publishers 
+51119.00,Other Publishers
+511191.00,Greeting Card Publishers 
+511199.00,All Other Publishers 
+5112.00,Software Publishers
+51121.00,Software Publishers
+511210.00,Software Publishers
+512.00,Motion Picture and Sound Recording Industries
+5121.00,Motion Picture and Video Industries
+51211.00,Motion Picture and Video Production
+512110.00,Motion Picture and Video Production 
+51212.00,Motion Picture and Video Distribution
+512120.00,Motion Picture and Video Distribution
+51213.00,Motion Picture and Video Exhibition
+512131.00,Motion Picture Theaters (except Drive-Ins) 
+512132.00,Drive-In Motion Picture Theaters 
+51219.00,Postproduction Services and Other Motion Picture and Video Industries
+512191.00,Teleproduction and Other Postproduction Services 
+512199.00,Other Motion Picture and Video Industries 
+5122.00,Sound Recording Industries
+51223.00,Music Publishers
+512230.00,Music Publishers
+51224.00,Sound Recording Studios
+512240.00,Sound Recording Studios
+51225.00,Record Production and Distribution
+512250.00,Record Production and Distribution
+51229.00,Other Sound Recording Industries
+512290.00,Other Sound Recording Industries
+515.00,Broadcasting (except Internet)
+5151.00,Radio and Television Broadcasting
+51511.00,Radio Broadcasting
+515111.00,Radio Networks 
+515112.00,Radio Stations 
+51512.00,Television Broadcasting
+515120.00,Television Broadcasting
+5152.00,Cable and Other Subscription Programming
+51521.00,Cable and Other Subscription Programming
+515210.00,Cable and Other Subscription Programming
+517.00,Telecommunications
+5173.00,Wired and Wireless Telecommunications Carriers
+51731.00,Wired and Wireless Telecommunications Carriers
+517311.00,Wired Telecommunications Carriers 
+517312.00,Wireless Telecommunications Carriers (except Satellite)
+5174.00,Satellite Telecommunications
+51741.00,Satellite Telecommunications
+517410.00,Satellite Telecommunications
+5179.00,Other Telecommunications
+51791.00,Other Telecommunications
+517911.00,Telecommunications Resellers 
+517919.00,All Other Telecommunications 
+518.00,"Data Processing, Hosting, and Related Services"
+5182.00,"Data Processing, Hosting, and Related Services"
+51821.00,"Data Processing, Hosting, and Related Services"
+518210.00,"Data Processing, Hosting, and Related Services"
+519.00,Other Information Services
+5191.00,Other Information Services
+51911.00,News Syndicates
+519110.00,News Syndicates
+51912.00,Libraries and Archives
+519120.00,Libraries and Archives 
+51913.00,Internet Publishing and Broadcasting and Web Search Portals
+519130.00,Internet Publishing and Broadcasting and Web Search Portals
+51919.00,All Other Information Services
+519190.00,All Other Information Services
+52.00,Finance and Insurance
+521.00,Monetary Authorities-Central Bank
+5211.00,Monetary Authorities-Central Bank
+52111.00,Monetary Authorities-Central Bank
+521110.00,Monetary Authorities-Central Bank
+522.00,Credit Intermediation and Related Activities
+5221.00,Depository Credit Intermediation 
+52211.00,Commercial Banking 
+522110.00,Commercial Banking 
+52212.00,Savings Institutions 
+522120.00,Savings Institutions 
+52213.00,Credit Unions 
+522130.00,Credit Unions 
+52219.00,Other Depository Credit Intermediation 
+522190.00,Other Depository Credit Intermediation 
+5222.00,Nondepository Credit Intermediation 
+52221.00,Credit Card Issuing 
+522210.00,Credit Card Issuing 
+52222.00,Sales Financing 
+522220.00,Sales Financing 
+52229.00,Other Nondepository Credit Intermediation 
+522291.00,Consumer Lending 
+522292.00,Real Estate Credit 
+522293.00,International Trade Financing 
+522294.00,Secondary Market Financing 
+522298.00,All Other Nondepository Credit Intermediation 
+5223.00,Activities Related to Credit Intermediation 
+52231.00,Mortgage and Nonmortgage Loan Brokers 
+522310.00,Mortgage and Nonmortgage Loan Brokers 
+52232.00,"Financial Transactions Processing, Reserve, and Clearinghouse Activities "
+522320.00,"Financial Transactions Processing, Reserve, and Clearinghouse Activities "
+52239.00,Other Activities Related to Credit Intermediation 
+522390.00,Other Activities Related to Credit Intermediation 
+523.00,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities"
+5231.00,Securities and Commodity Contracts Intermediation and Brokerage
+52311.00,Investment Banking and Securities Dealing 
+523110.00,Investment Banking and Securities Dealing 
+52312.00,Securities Brokerage 
+523120.00,Securities Brokerage 
+52313.00,Commodity Contracts Dealing 
+523130.00,Commodity Contracts Dealing 
+52314.00,Commodity Contracts Brokerage 
+523140.00,Commodity Contracts Brokerage 
+5232.00,Securities and Commodity Exchanges
+52321.00,Securities and Commodity Exchanges
+523210.00,Securities and Commodity Exchanges
+5239.00,Other Financial Investment Activities
+52391.00,Miscellaneous Intermediation 
+523910.00,Miscellaneous Intermediation 
+52392.00,Portfolio Management 
+523920.00,Portfolio Management 
+52393.00,Investment Advice 
+523930.00,Investment Advice 
+52399.00,All Other Financial Investment Activities 
+523991.00,"Trust, Fiduciary, and Custody Activities "
+523999.00,Miscellaneous Financial Investment Activities 
+524.00,Insurance Carriers and Related Activities
+5241.00,Insurance Carriers
+52411.00,"Direct Life, Health, and Medical Insurance Carriers "
+524113.00,Direct Life Insurance Carriers 
+524114.00,Direct Health and Medical Insurance Carriers 
+52412.00,"Direct Insurance (except Life, Health, and Medical) Carriers "
+524126.00,Direct Property and Casualty Insurance Carriers 
+524127.00,Direct Title Insurance Carriers 
+524128.00,"Other Direct Insurance (except Life, Health, and Medical) Carriers "
+52413.00,Reinsurance Carriers 
+524130.00,Reinsurance Carriers 
+5242.00,"Agencies, Brokerages, and Other Insurance Related Activities"
+52421.00,Insurance Agencies and Brokerages 
+524210.00,Insurance Agencies and Brokerages 
+52429.00,Other Insurance Related Activities 
+524291.00,Claims Adjusting 
+524292.00,Third Party Administration of Insurance and Pension Funds 
+524298.00,All Other Insurance Related Activities 
+525.00,"Funds, Trusts, and Other Financial Vehicles "
+5251.00,Insurance and Employee Benefit Funds 
+52511.00,Pension Funds 
+525110.00,Pension Funds 
+52512.00,Health and Welfare Funds 
+525120.00,Health and Welfare Funds 
+52519.00,Other Insurance Funds 
+525190.00,Other Insurance Funds 
+5259.00,Other Investment Pools and Funds
+52591.00,Open-End Investment Funds 
+525910.00,Open-End Investment Funds 
+52592.00,"Trusts, Estates, and Agency Accounts "
+525920.00,"Trusts, Estates, and Agency Accounts "
+52599.00,Other Financial Vehicles 
+525990.00,Other Financial Vehicles 
+53.00,Real Estate and Rental and Leasing
+531.00,Real Estate
+5311.00,Lessors of Real Estate
+53111.00,Lessors of Residential Buildings and Dwellings 
+531110.00,Lessors of Residential Buildings and Dwellings 
+53112.00,Lessors of Nonresidential Buildings (except Miniwarehouses) 
+531120.00,Lessors of Nonresidential Buildings (except Miniwarehouses) 
+53113.00,Lessors of Miniwarehouses and Self-Storage Units 
+531130.00,Lessors of Miniwarehouses and Self-Storage Units 
+53119.00,Lessors of Other Real Estate Property 
+531190.00,Lessors of Other Real Estate Property 
+5312.00,Offices of Real Estate Agents and Brokers
+53121.00,Offices of Real Estate Agents and Brokers
+531210.00,Offices of Real Estate Agents and Brokers
+5313.00,Activities Related to Real Estate
+53131.00,Real Estate Property Managers 
+531311.00,Residential Property Managers 
+531312.00,Nonresidential Property Managers 
+53132.00,Offices of Real Estate Appraisers 
+531320.00,Offices of Real Estate Appraisers 
+53139.00,Other Activities Related to Real Estate 
+531390.00,Other Activities Related to Real Estate 
+532.00,Rental and Leasing Services
+5321.00,Automotive Equipment Rental and Leasing
+53211.00,Passenger Car Rental and Leasing
+532111.00,Passenger Car Rental 
+532112.00,Passenger Car Leasing 
+53212.00,"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing"
+532120.00,"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing "
+5322.00,Consumer Goods Rental
+53221.00,Consumer Electronics and Appliances Rental
+532210.00,Consumer Electronics and Appliances Rental
+53228.00,Other Consumer Goods Rental 
+532281.00,Formal Wear and Costume Rental
+532282.00,Video Tape and Disc Rental
+532283.00,Home Health Equipment Rental 
+532284.00,Recreational Goods Rental 
+532289.00,All Other Consumer Goods Rental 
+5323.00,General Rental Centers
+53231.00,General Rental Centers
+532310.00,General Rental Centers
+5324.00,Commercial and Industrial Machinery and Equipment Rental and Leasing
+53241.00,"Construction, Transportation, Mining, and Forestry Machinery and Equipment Rental and Leasing"
+532411.00,"Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing "
+532412.00,"Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing "
+53242.00,Office Machinery and Equipment Rental and Leasing
+532420.00,Office Machinery and Equipment Rental and Leasing
+53249.00,Other Commercial and Industrial Machinery and Equipment Rental and Leasing
+532490.00,Other Commercial and Industrial Machinery and Equipment Rental and Leasing 
+533.00,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)
+5331.00,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)
+53311.00,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)
+533110.00,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)
+54.00,"Professional, Scientific, and Technical Services"
+541.00,"Professional, Scientific, and Technical Services"
+5411.00,Legal Services
+54111.00,Offices of Lawyers
+541110.00,Offices of Lawyers
+54112.00,Offices of Notaries
+541120.00,Offices of Notaries
+54119.00,Other Legal Services
+541191.00,Title Abstract and Settlement Offices 
+541199.00,All Other Legal Services 
+5412.00,"Accounting, Tax Preparation, Bookkeeping, and Payroll Services"
+54121.00,"Accounting, Tax Preparation, Bookkeeping, and Payroll Services"
+541211.00,Offices of Certified Public Accountants 
+541213.00,Tax Preparation Services 
+541214.00,Payroll Services 
+541219.00,Other Accounting Services 
+5413.00,"Architectural, Engineering, and Related Services"
+54131.00,Architectural Services
+541310.00,Architectural Services
+54132.00,Landscape Architectural Services
+541320.00,Landscape Architectural Services
+54133.00,Engineering Services
+541330.00,Engineering Services
+54134.00,Drafting Services
+541340.00,Drafting Services
+54135.00,Building Inspection Services
+541350.00,Building Inspection Services
+54136.00,Geophysical Surveying and Mapping Services
+541360.00,Geophysical Surveying and Mapping Services
+54137.00,Surveying and Mapping (except Geophysical) Services
+541370.00,Surveying and Mapping (except Geophysical) Services
+54138.00,Testing Laboratories
+541380.00,Testing Laboratories
+5414.00,Specialized Design Services
+54141.00,Interior Design Services
+541410.00,Interior Design Services
+54142.00,Industrial Design Services
+541420.00,Industrial Design Services
+54143.00,Graphic Design Services
+541430.00,Graphic Design Services
+54149.00,Other Specialized Design Services
+541490.00,Other Specialized Design Services
+5415.00,Computer Systems Design and Related Services
+54151.00,Computer Systems Design and Related Services
+541511.00,Custom Computer Programming Services 
+541512.00,Computer Systems Design Services 
+541513.00,Computer Facilities Management Services 
+541519.00,Other Computer Related Services
+5416.00,"Management, Scientific, and Technical Consulting Services"
+54161.00,Management Consulting Services
+541611.00,Administrative Management and General Management Consulting Services 
+541612.00,Human Resources Consulting Services 
+541613.00,Marketing Consulting Services 
+541614.00,"Process, Physical Distribution, and Logistics Consulting Services "
+541618.00,Other Management Consulting Services 
+54162.00,Environmental Consulting Services
+541620.00,Environmental Consulting Services
+54169.00,Other Scientific and Technical Consulting Services
+541690.00,Other Scientific and Technical Consulting Services
+5417.00,Scientific Research and Development Services
+54171.00,"Research and Development in the Physical, Engineering, and Life Sciences"
+541713.00,Research and Development in Nanotechnology 
+541714.00,Research and Development in Biotechnology (except Nanobiotechnology)
+541715.00,"Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology) "
+54172.00,Research and Development in the Social Sciences and Humanities
+541720.00,Research and Development in the Social Sciences and Humanities 
+5418.00,"Advertising, Public Relations, and Related Services"
+54181.00,Advertising Agencies
+541810.00,Advertising Agencies
+54182.00,Public Relations Agencies
+541820.00,Public Relations Agencies
+54183.00,Media Buying Agencies
+541830.00,Media Buying Agencies
+54184.00,Media Representatives
+541840.00,Media Representatives
+54185.00,Outdoor Advertising
+541850.00,Outdoor Advertising
+54186.00,Direct Mail Advertising
+541860.00,Direct Mail Advertising
+54187.00,Advertising Material Distribution Services
+541870.00,Advertising Material Distribution Services
+54189.00,Other Services Related to Advertising
+541890.00,Other Services Related to Advertising 
+5419.00,"Other Professional, Scientific, and Technical Services"
+54191.00,Marketing Research and Public Opinion Polling
+541910.00,Marketing Research and Public Opinion Polling
+54192.00,Photographic Services
+541921.00,"Photography Studios, Portrait "
+541922.00,Commercial Photography 
+54193.00,Translation and Interpretation Services
+541930.00,Translation and Interpretation Services
+54194.00,Veterinary Services
+541940.00,Veterinary Services 
+54199.00,"All Other Professional, Scientific, and Technical Services"
+541990.00,"All Other Professional, Scientific, and Technical Services"
+55.00,Management of Companies and Enterprises
+551.00,Management of Companies and Enterprises
+5511.00,Management of Companies and Enterprises
+55111.00,Management of Companies and Enterprises
+551111.00,Offices of Bank Holding Companies 
+551112.00,Offices of Other Holding Companies 
+551114.00,"Corporate, Subsidiary, and Regional Managing Offices "
+56.00,Administrative and Support and Waste Management and Remediation Services
+561.00,Administrative and Support Services
+5611.00,Office Administrative Services
+56111.00,Office Administrative Services
+561110.00,Office Administrative Services
+5612.00,Facilities Support Services
+56121.00,Facilities Support Services
+561210.00,Facilities Support Services
+5613.00,Employment Services
+56131.00,Employment Placement Agencies and Executive Search Services
+561311.00,Employment Placement Agencies 
+561312.00,Executive Search Services 
+56132.00,Temporary Help Services
+561320.00,Temporary Help Services
+56133.00,Professional Employer Organizations
+561330.00,Professional Employer Organizations
+5614.00,Business Support Services
+56141.00,Document Preparation Services
+561410.00,Document Preparation Services
+56142.00,Telephone Call Centers
+561421.00,Telephone Answering Services 
+561422.00,Telemarketing Bureaus and Other Contact Centers 
+56143.00,Business Service Centers
+561431.00,Private Mail Centers 
+561439.00,Other Business Service Centers (including Copy Shops) 
+56144.00,Collection Agencies
+561440.00,Collection Agencies
+56145.00,Credit Bureaus
+561450.00,Credit Bureaus
+56149.00,Other Business Support Services
+561491.00,Repossession Services 
+561492.00,Court Reporting and Stenotype Services 
+561499.00,All Other Business Support Services 
+5615.00,Travel Arrangement and Reservation Services
+56151.00,Travel Agencies
+561510.00,Travel Agencies
+56152.00,Tour Operators
+561520.00,Tour Operators
+56159.00,Other Travel Arrangement and Reservation Services
+561591.00,Convention and Visitors Bureaus 
+561599.00,All Other Travel Arrangement and Reservation Services 
+5616.00,Investigation and Security Services
+56161.00,"Investigation, Guard, and Armored Car Services"
+561611.00,Investigation Services 
+561612.00,Security Guards and Patrol Services 
+561613.00,Armored Car Services 
+56162.00,Security Systems Services
+561621.00,Security Systems Services (except Locksmiths) 
+561622.00,Locksmiths 
+5617.00,Services to Buildings and Dwellings
+56171.00,Exterminating and Pest Control Services
+561710.00,Exterminating and Pest Control Services
+56172.00,Janitorial Services
+561720.00,Janitorial Services 
+56173.00,Landscaping Services
+561730.00,Landscaping Services
+56174.00,Carpet and Upholstery Cleaning Services
+561740.00,Carpet and Upholstery Cleaning Services
+56179.00,Other Services to Buildings and Dwellings
+561790.00,Other Services to Buildings and Dwellings 
+5619.00,Other Support Services
+56191.00,Packaging and Labeling Services
+561910.00,Packaging and Labeling Services
+56192.00,Convention and Trade Show Organizers
+561920.00,Convention and Trade Show Organizers
+56199.00,All Other Support Services
+561990.00,All Other Support Services
+562.00,Waste Management and Remediation Services
+5621.00,Waste Collection 
+56211.00,Waste Collection 
+562111.00,Solid Waste Collection 
+562112.00,Hazardous Waste Collection 
+562119.00,Other Waste Collection 
+5622.00,Waste Treatment and Disposal 
+56221.00,Waste Treatment and Disposal 
+562211.00,Hazardous Waste Treatment and Disposal 
+562212.00,Solid Waste Landfill 
+562213.00,Solid Waste Combustors and Incinerators 
+562219.00,Other Nonhazardous Waste Treatment and Disposal 
+5629.00,Remediation and Other Waste Management Services 
+56291.00,Remediation Services 
+562910.00,Remediation Services 
+56292.00,Materials Recovery Facilities 
+562920.00,Materials Recovery Facilities 
+56299.00,All Other Waste Management Services 
+562991.00,Septic Tank and Related Services 
+562998.00,All Other Miscellaneous Waste Management Services 
+61.00,Educational Services
+611.00,Educational Services
+6111.00,Elementary and Secondary Schools
+61111.00,Elementary and Secondary Schools 
+611110.00,Elementary and Secondary Schools 
+6112.00,Junior Colleges
+61121.00,Junior Colleges
+611210.00,Junior Colleges 
+6113.00,"Colleges, Universities, and Professional Schools"
+61131.00,"Colleges, Universities, and Professional Schools"
+611310.00,"Colleges, Universities, and Professional Schools "
+6114.00,Business Schools and Computer and Management Training
+61141.00,Business and Secretarial Schools
+611410.00,Business and Secretarial Schools 
+61142.00,Computer Training
+611420.00,Computer Training 
+61143.00,Professional and Management Development Training
+611430.00,Professional and Management Development Training 
+6115.00,Technical and Trade Schools 
+61151.00,Technical and Trade Schools
+611511.00,Cosmetology and Barber Schools 
+611512.00,Flight Training 
+611513.00,Apprenticeship Training 
+611519.00,Other Technical and Trade Schools 
+6116.00,Other Schools and Instruction
+61161.00,Fine Arts Schools
+611610.00,Fine Arts Schools 
+61162.00,Sports and Recreation Instruction
+611620.00,Sports and Recreation Instruction 
+61163.00,Language Schools
+611630.00,Language Schools 
+61169.00,All Other Schools and Instruction
+611691.00,Exam Preparation and Tutoring 
+611692.00,Automobile Driving Schools 
+611699.00,All Other Miscellaneous Schools and Instruction 
+6117.00,Educational Support Services
+61171.00,Educational Support Services
+611710.00,Educational Support Services
+62.00,Health Care and Social Assistance
+621.00,Ambulatory Health Care Services
+6211.00,Offices of Physicians
+62111.00,Offices of Physicians
+621111.00,Offices of Physicians (except Mental Health Specialists) 
+621112.00,"Offices of Physicians, Mental Health Specialists "
+6212.00,Offices of Dentists
+62121.00,Offices of Dentists
+621210.00,Offices of Dentists 
+6213.00,Offices of Other Health Practitioners
+62131.00,Offices of Chiropractors
+621310.00,Offices of Chiropractors 
+62132.00,Offices of Optometrists
+621320.00,Offices of Optometrists
+62133.00,Offices of Mental Health Practitioners (except Physicians)
+621330.00,Offices of Mental Health Practitioners (except Physicians) 
+62134.00,"Offices of Physical, Occupational and Speech Therapists, and Audiologists"
+621340.00,"Offices of Physical, Occupational and Speech Therapists, and Audiologists "
+62139.00,Offices of All Other Health Practitioners
+621391.00,Offices of Podiatrists 
+621399.00,Offices of All Other Miscellaneous Health Practitioners 
+6214.00,Outpatient Care Centers
+62141.00,Family Planning Centers
+621410.00,Family Planning Centers 
+62142.00,Outpatient Mental Health and Substance Abuse Centers
+621420.00,Outpatient Mental Health and Substance Abuse Centers 
+62149.00,Other Outpatient Care Centers
+621491.00,HMO Medical Centers 
+621492.00,Kidney Dialysis Centers 
+621493.00,Freestanding Ambulatory Surgical and Emergency Centers 
+621498.00,All Other Outpatient Care Centers 
+6215.00,Medical and Diagnostic Laboratories
+62151.00,Medical and Diagnostic Laboratories
+621511.00,Medical Laboratories 
+621512.00,Diagnostic Imaging Centers 
+6216.00,Home Health Care Services
+62161.00,Home Health Care Services
+621610.00,Home Health Care Services
+6219.00,Other Ambulatory Health Care Services
+62191.00,Ambulance Services
+621910.00,Ambulance Services 
+62199.00,All Other Ambulatory Health Care Services
+621991.00,Blood and Organ Banks 
+621999.00,All Other Miscellaneous Ambulatory Health Care Services 
+622.00,Hospitals
+6221.00,General Medical and Surgical Hospitals
+62211.00,General Medical and Surgical Hospitals
+622110.00,General Medical and Surgical Hospitals 
+6222.00,Psychiatric and Substance Abuse Hospitals
+62221.00,Psychiatric and Substance Abuse Hospitals
+622210.00,Psychiatric and Substance Abuse Hospitals 
+6223.00,Specialty (except Psychiatric and Substance Abuse) Hospitals
+62231.00,Specialty (except Psychiatric and Substance Abuse) Hospitals
+622310.00,Specialty (except Psychiatric and Substance Abuse) Hospitals 
+623.00,Nursing and Residential Care Facilities
+6231.00,Nursing Care Facilities (Skilled Nursing Facilities)
+62311.00,Nursing Care Facilities (Skilled Nursing Facilities)
+623110.00,Nursing Care Facilities (Skilled Nursing Facilities) 
+6232.00,"Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities"
+62321.00,Residential Intellectual and Developmental Disability Facilities
+623210.00,Residential Intellectual and Developmental Disability Facilities 
+62322.00,Residential Mental Health and Substance Abuse Facilities
+623220.00,Residential Mental Health and Substance Abuse Facilities 
+6233.00,Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly
+62331.00,Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly
+623311.00,Continuing Care Retirement Communities 
+623312.00,Assisted Living Facilities for the Elderly 
+6239.00,Other Residential Care Facilities
+62399.00,Other Residential Care Facilities
+623990.00,Other Residential Care Facilities 
+624.00,Social Assistance
+6241.00,Individual and Family Services
+62411.00,Child and Youth Services
+624110.00,Child and Youth Services 
+62412.00,Services for the Elderly and Persons with Disabilities
+624120.00,Services for the Elderly and Persons with Disabilities 
+62419.00,Other Individual and Family Services
+624190.00,Other Individual and Family Services 
+6242.00,"Community Food and Housing, and Emergency and Other Relief Services"
+62421.00,Community Food Services
+624210.00,Community Food Services 
+62422.00,Community Housing Services
+624221.00,Temporary Shelters 
+624229.00,Other Community Housing Services 
+62423.00,Emergency and Other Relief Services
+624230.00,Emergency and Other Relief Services 
+6243.00,Vocational Rehabilitation Services
+62431.00,Vocational Rehabilitation Services
+624310.00,Vocational Rehabilitation Services 
+6244.00,Child Day Care Services
+62441.00,Child Day Care Services
+624410.00,Child Day Care Services 
+71.00,"Arts, Entertainment, and Recreation"
+711.00,"Performing Arts, Spectator Sports, and Related Industries"
+7111.00,Performing Arts Companies
+71111.00,Theater Companies and Dinner Theaters
+711110.00,Theater Companies and Dinner Theaters 
+71112.00,Dance Companies
+711120.00,Dance Companies 
+71113.00,Musical Groups and Artists
+711130.00,Musical Groups and Artists 
+71119.00,Other Performing Arts Companies
+711190.00,Other Performing Arts Companies 
+7112.00,Spectator Sports
+71121.00,Spectator Sports
+711211.00,Sports Teams and Clubs 
+711212.00,Racetracks 
+711219.00,Other Spectator Sports 
+7113.00,"Promoters of Performing Arts, Sports, and Similar Events"
+71131.00,"Promoters of Performing Arts, Sports, and Similar Events with Facilities"
+711310.00,"Promoters of Performing Arts, Sports, and Similar Events with Facilities "
+71132.00,"Promoters of Performing Arts, Sports, and Similar Events without Facilities"
+711320.00,"Promoters of Performing Arts, Sports, and Similar Events without Facilities "
+7114.00,"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures"
+71141.00,"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures"
+711410.00,"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures"
+7115.00,"Independent Artists, Writers, and Performers"
+71151.00,"Independent Artists, Writers, and Performers"
+711510.00,"Independent Artists, Writers, and Performers "
+712.00,"Museums, Historical Sites, and Similar Institutions"
+7121.00,"Museums, Historical Sites, and Similar Institutions"
+71211.00,Museums
+712110.00,Museums 
+71212.00,Historical Sites
+712120.00,Historical Sites
+71213.00,Zoos and Botanical Gardens
+712130.00,Zoos and Botanical Gardens 
+71219.00,Nature Parks and Other Similar Institutions
+712190.00,Nature Parks and Other Similar Institutions
+713.00,"Amusement, Gambling, and Recreation Industries"
+7131.00,Amusement Parks and Arcades
+71311.00,Amusement and Theme Parks
+713110.00,Amusement and Theme Parks 
+71312.00,Amusement Arcades
+713120.00,Amusement Arcades
+7132.00,Gambling Industries
+71321.00,Casinos (except Casino Hotels)
+713210.00,Casinos (except Casino Hotels)
+71329.00,Other Gambling Industries
+713290.00,Other Gambling Industries 
+7139.00,Other Amusement and Recreation Industries
+71391.00,Golf Courses and Country Clubs
+713910.00,Golf Courses and Country Clubs
+71392.00,Skiing Facilities
+713920.00,Skiing Facilities
+71393.00,Marinas
+713930.00,Marinas
+71394.00,Fitness and Recreational Sports Centers
+713940.00,Fitness and Recreational Sports Centers 
+71395.00,Bowling Centers
+713950.00,Bowling Centers
+71399.00,All Other Amusement and Recreation Industries
+713990.00,All Other Amusement and Recreation Industries 
+72.00,Accommodation and Food Services
+721.00,Accommodation
+7211.00,Traveler Accommodation
+72111.00,Hotels (except Casino Hotels) and Motels
+721110.00,Hotels (except Casino Hotels) and Motels 
+72112.00,Casino Hotels
+721120.00,Casino Hotels
+72119.00,Other Traveler Accommodation
+721191.00,Bed-and-Breakfast Inns 
+721199.00,All Other Traveler Accommodation 
+7212.00,RV (Recreational Vehicle) Parks and Recreational Camps
+72121.00,RV (Recreational Vehicle) Parks and Recreational Camps
+721211.00,RV (Recreational Vehicle) Parks and Campgrounds 
+721214.00,Recreational and Vacation Camps (except Campgrounds) 
+7213.00,"Rooming and Boarding Houses, Dormitories, and Workers' Camps"
+72131.00,"Rooming and Boarding Houses, Dormitories, and Workers' Camps"
+721310.00,"Rooming and Boarding Houses, Dormitories, and Workers' Camps "
+722.00,Food Services and Drinking Places
+7223.00,Special Food Services
+72231.00,Food Service Contractors
+722310.00,Food Service Contractors
+72232.00,Caterers
+722320.00,Caterers
+72233.00,Mobile Food Services
+722330.00,Mobile Food Services
+7224.00,Drinking Places (Alcoholic Beverages)
+72241.00,Drinking Places (Alcoholic Beverages)
+722410.00,Drinking Places (Alcoholic Beverages) 
+7225.00,Restaurants and Other Eating Places
+72251.00,Restaurants and Other Eating Places
+722511.00,Full-Service Restaurants 
+722513.00,Limited-Service Restaurants 
+722514.00,"Cafeterias, Grill Buffets, and Buffets "
+722515.00,Snack and Nonalcoholic Beverage Bars 
+81.00,Other Services (except Public Administration)
+811.00,Repair and Maintenance
+8111.00,Automotive Repair and Maintenance
+81111.00,Automotive Mechanical and Electrical Repair and Maintenance
+811111.00,General Automotive Repair 
+811112.00,Automotive Exhaust System Repair 
+811113.00,Automotive Transmission Repair 
+811118.00,Other Automotive Mechanical and Electrical Repair and Maintenance 
+81112.00,"Automotive Body, Paint, Interior, and Glass Repair"
+811121.00,"Automotive Body, Paint, and Interior Repair and Maintenance "
+811122.00,Automotive Glass Replacement Shops 
+81119.00,Other Automotive Repair and Maintenance
+811191.00,Automotive Oil Change and Lubrication Shops 
+811192.00,Car Washes 
+811198.00,All Other Automotive Repair and Maintenance 
+8112.00,Electronic and Precision Equipment Repair and Maintenance
+81121.00,Electronic and Precision Equipment Repair and Maintenance
+811211.00,Consumer Electronics Repair and Maintenance 
+811212.00,Computer and Office Machine Repair and Maintenance 
+811213.00,Communication Equipment Repair and Maintenance 
+811219.00,Other Electronic and Precision Equipment Repair and Maintenance 
+8113.00,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance
+81131.00,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance
+811310.00,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance 
+8114.00,Personal and Household Goods Repair and Maintenance
+81141.00,Home and Garden Equipment and Appliance Repair and Maintenance
+811411.00,Home and Garden Equipment Repair and Maintenance 
+811412.00,Appliance Repair and Maintenance 
+81142.00,Reupholstery and Furniture Repair
+811420.00,Reupholstery and Furniture Repair
+81143.00,Footwear and Leather Goods Repair
+811430.00,Footwear and Leather Goods Repair
+81149.00,Other Personal and Household Goods Repair and Maintenance
+811490.00,Other Personal and Household Goods Repair and Maintenance 
+812.00,Personal and Laundry Services
+8121.00,Personal Care Services 
+81211.00,"Hair, Nail, and Skin Care Services "
+812111.00,Barber Shops 
+812112.00,Beauty Salons 
+812113.00,Nail Salons 
+81219.00,Other Personal Care Services 
+812191.00,Diet and Weight Reducing Centers 
+812199.00,Other Personal Care Services 
+8122.00,Death Care Services 
+81221.00,Funeral Homes and Funeral Services 
+812210.00,Funeral Homes and Funeral Services 
+81222.00,Cemeteries and Crematories 
+812220.00,Cemeteries and Crematories 
+8123.00,Drycleaning and Laundry Services 
+81231.00,Coin-Operated Laundries and Drycleaners 
+812310.00,Coin-Operated Laundries and Drycleaners 
+81232.00,Drycleaning and Laundry Services (except Coin-Operated) 
+812320.00,Drycleaning and Laundry Services (except Coin-Operated) 
+81233.00,Linen and Uniform Supply 
+812331.00,Linen Supply 
+812332.00,Industrial Launderers 
+8129.00,Other Personal Services 
+81291.00,Pet Care (except Veterinary) Services 
+812910.00,Pet Care (except Veterinary) Services 
+81292.00,Photofinishing 
+812921.00,Photofinishing Laboratories (except One-Hour) 
+812922.00,One-Hour Photofinishing 
+81293.00,Parking Lots and Garages 
+812930.00,Parking Lots and Garages 
+81299.00,All Other Personal Services 
+812990.00,All Other Personal Services 
+813.00,"Religious, Grantmaking, Civic, Professional, and Similar Organizations"
+8131.00,Religious Organizations 
+81311.00,Religious Organizations 
+813110.00,Religious Organizations 
+8132.00,Grantmaking and Giving Services 
+81321.00,Grantmaking and Giving Services 
+813211.00,Grantmaking Foundations 
+813212.00,Voluntary Health Organizations 
+813219.00,Other Grantmaking and Giving Services 
+8133.00,Social Advocacy Organizations 
+81331.00,Social Advocacy Organizations 
+813311.00,Human Rights Organizations 
+813312.00,"Environment, Conservation and Wildlife Organizations "
+813319.00,Other Social Advocacy Organizations 
+8134.00,Civic and Social Organizations 
+81341.00,Civic and Social Organizations 
+813410.00,Civic and Social Organizations 
+8139.00,"Business, Professional, Labor, Political, and Similar Organizations "
+81391.00,Business Associations 
+813910.00,Business Associations 
+81392.00,Professional Organizations 
+813920.00,Professional Organizations 
+81393.00,Labor Unions and Similar Labor Organizations 
+813930.00,Labor Unions and Similar Labor Organizations 
+81394.00,Political Organizations 
+813940.00,Political Organizations 
+81399.00,"Other Similar Organizations (except Business, Professional, Labor, and Political Organizations) "
+813990.00,"Other Similar Organizations (except Business, Professional, Labor, and Political Organizations) "
+814.00,Private Households
+8141.00,Private Households
+81411.00,Private Households
+814110.00,Private Households
+92.00,Public Administration
+921.00,"Executive, Legislative, and Other General Government Support "
+9211.00,"Executive, Legislative, and Other General Government Support "
+92111.00,Executive Offices 
+921110.00,Executive Offices 
+92112.00,Legislative Bodies 
+921120.00,Legislative Bodies 
+92113.00,Public Finance Activities 
+921130.00,Public Finance Activities 
+92114.00,"Executive and Legislative Offices, Combined "
+921140.00,"Executive and Legislative Offices, Combined "
+92115.00,American Indian and Alaska Native Tribal Governments 
+921150.00,American Indian and Alaska Native Tribal Governments 
+92119.00,Other General Government Support 
+921190.00,Other General Government Support 
+922.00,"Justice, Public Order, and Safety Activities "
+9221.00,"Justice, Public Order, and Safety Activities "
+92211.00,Courts 
+922110.00,Courts 
+92212.00,Police Protection 
+922120.00,Police Protection 
+92213.00,Legal Counsel and Prosecution 
+922130.00,Legal Counsel and Prosecution 
+92214.00,Correctional Institutions 
+922140.00,Correctional Institutions 
+92215.00,Parole Offices and Probation Offices 
+922150.00,Parole Offices and Probation Offices 
+92216.00,Fire Protection 
+922160.00,Fire Protection 
+92219.00,"Other Justice, Public Order, and Safety Activities "
+922190.00,"Other Justice, Public Order, and Safety Activities "
+923.00,Administration of Human Resource Programs 
+9231.00,Administration of Human Resource Programs 
+92311.00,Administration of Education Programs 
+923110.00,Administration of Education Programs 
+92312.00,Administration of Public Health Programs 
+923120.00,Administration of Public Health Programs 
+92313.00,"Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs) "
+923130.00,"Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs) "
+92314.00,Administration of Veterans' Affairs 
+923140.00,Administration of Veterans' Affairs 
+924.00,Administration of Environmental Quality Programs 
+9241.00,Administration of Environmental Quality Programs 
+92411.00,Administration of Air and Water Resource and Solid Waste Management Programs 
+924110.00,Administration of Air and Water Resource and Solid Waste Management Programs 
+92412.00,Administration of Conservation Programs 
+924120.00,Administration of Conservation Programs 
+925.00,"Administration of Housing Programs, Urban Planning, and Community Development "
+9251.00,"Administration of Housing Programs, Urban Planning, and Community Development "
+92511.00,Administration of Housing Programs 
+925110.00,Administration of Housing Programs 
+92512.00,Administration of Urban Planning and Community and Rural Development 
+925120.00,Administration of Urban Planning and Community and Rural Development 
+926.00,Administration of Economic Programs 
+9261.00,Administration of Economic Programs 
+92611.00,Administration of General Economic Programs 
+926110.00,Administration of General Economic Programs 
+92612.00,Regulation and Administration of Transportation Programs 
+926120.00,Regulation and Administration of Transportation Programs 
+92613.00,"Regulation and Administration of Communications, Electric, Gas, and Other Utilities "
+926130.00,"Regulation and Administration of Communications, Electric, Gas, and Other Utilities "
+92614.00,Regulation of Agricultural Marketing and Commodities 
+926140.00,Regulation of Agricultural Marketing and Commodities 
+92615.00,"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors "
+926150.00,"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors "
+927.00,Space Research and Technology 
+9271.00,Space Research and Technology 
+92711.00,Space Research and Technology 
+927110.00,Space Research and Technology 
+928.00,National Security and International Affairs 
+9281.00,National Security and International Affairs 
+92811.00,National Security 
+928110.00,National Security 
+92812.00,International Affairs 
+928120.00,International Affairs 
