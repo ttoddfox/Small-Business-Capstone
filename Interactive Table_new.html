@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+
+}
+</style>
+</head>
+
+<h2>SME estimator</h2>
+<body>
+
+   <input type='button' value=' Run Scenario ' onclick="count()" />     
+   
+<script type="text/javascript">
+  
+   function count(){
+
+        var aa = parseInt(document.getElementById("input1-1").value)       
+        var ba = parseInt(document.getElementById("input2-1").value)
+        var ca = parseInt(document.getElementById("input3-1").value)       
+        var da = parseInt(document.getElementById("input4-1").value)   
+        var ea = parseInt(document.getElementById("input5-1").value)    
+        var fa = parseInt(document.getElementById("input6-1").value)
+
+        document.getElementById("result1-2").value=1236.946981*aa;
+        document.getElementById("result1-3").value=1834.721906*aa;
+        document.getElementById("result1-4").value=725.675657*aa;
+
+        document.getElementById("result2-2").value=57.73434949*ba;
+        document.getElementById("result2-3").value=-287.3214867*ba;
+        document.getElementById("result2-4").value=-90.005556*ba;
+ 
+        document.getElementById("result3-2").value=211.5427734*ca;
+        document.getElementById("result3-3").value=162.0468753*ca;
+        document.getElementById("result3-4").value=68.4281905*ca;
+
+        document.getElementById("result4-2").value=-210.9433621*da;
+        document.getElementById("result4-3").value=247.2165959*da;
+        document.getElementById("result4-4").value=-175.59264*da;
+
+        document.getElementById("result5-2").value=-71.06823553*ea;
+        document.getElementById("result5-3").value=-365.4068129*ea;
+        document.getElementById("result5-4").value=-229.14686*ea;
+
+        document.getElementById("result6-2").value=539.2275332*fa;
+        document.getElementById("result6-3").value=-943.6282193*fa;
+        document.getElementById("result6-4").value=-415.07856*fa;
+
+        document.getElementById("result7-2").value=1236.946981*aa+57.73434949*ba+211.5427734*ca-210.9433621*da-71.06823553*ea+539.2275332*fa;
+        document.getElementById("result7-3").value=1834.721906*aa-287.3214867*ba+162.0468753*ca+247.2165959*da-365.4068129*ea-943.6282193*fa;
+        document.getElementById("result7-4").value=725.675657*aa-90.005556*ba+68.4281905*ca-175.59264*da-229.14686*ea-415.07856*fa;
+        }
+
+     function add(a,b){
+         suma=a+b;
+         return suma;
+         }
+         function sum(a,b){
+         sumb=a-b;
+         return sumb;
+         }
+         function app(a,b){
+         sumc=a*b;
+         return sumc;
+         }
+         function divs(a,b){
+         sumd=a/b;
+         return sumd;
+         }
+  
+</script>
+
+<table>
+  <tr>
+  
+    <th bgcolor='#00BFFF'>Feature</th>
+    <th bgcolor='#87CEFA'>Proposed change in feature(%)</th>
+    <th bgcolor='#87CEFA'>Effect on SME Death</th>
+    <th bgcolor='#87CEFA'>Effect on SME Growth</th>
+    <th bgcolor='#87CEFA'>Effect on SME Birth</th>
+
+    
+  </tr>
+  
+  <tr>
+    <td bgcolor='#ADD8E6'>Gross domestic product (GDP)</td>
+    
+    <td>
+    <input type='text' id='input1-1' value="0" style="border:0px;"/> 
+    </td>
+
+    <td> 
+    <input type='text' id='result1-2' value="0" style="border:0px;"/> 
+    </td>
+    
+    <td> 
+    <input type='text' id='result1-3' value="0" style="border:0px;"/> 
+    </td>
+    
+    <td> 
+    <input type='text' id='result1-4' value="0" style="border:0px;"/> 
+    </td>
+    
+  </tr>
+  
+  <tr>
+    <td bgcolor='#ADD8E6'>Taxes</td>
+    
+    <td>
+    <input type='text' id='input2-1' value="0" style="border:0px;"/> 
+    </td>
+
+    <td> 
+    <input type='text' id='result2-2' value="0" style="border:0px;"/> 
+    </td>
+    
+    <td> 
+    <input type='text' id='result2-3' value="0" style="border:0px;"/> 
+    </td>
+    
+    <td> 
+    <input type='text' id='result2-4' value="0" style="border:0px;"/> 
+    </td>
+    
+  </tr>
+ 
+  <tr>
+    <td bgcolor='#ADD8E6'>Local Government Expenditure</td>
+    
+    <td>
+    <input type='text' id='input3-1' value="0" style="border:0px;"/> 
+    </td>
+
+    <td> 
+    <input type='text' id='result3-2' value="0" style="border:0px;"/> 
+    </td>
+    
+    <td> 
+    <input type='text' id='result3-3' value="0" style="border:0px;"/> 
+    </td>
+
+    <td> 
+    <input type='text' id='result3-4' value="0" style="border:0px;"/> 
+    </td>
+    
+  </tr>
+
+  <tr>
+    <td bgcolor='#ADD8E6'>Average Employee Compensation</td>
+    
+    <td>
+    <input type='text' id='input4-1' value="0" style="border:0px;"/> 
+    </td>
+
+    <td> 
+    <input type='text' id='result4-2' value="0" style="border:0px;"/> 
+    </td>
+    
+    <td> 
+    <input type='text' id='result4-3' value="0" style="border:0px;"/> 
+    </td>
+
+    <td> 
+    <input type='text' id='result4-4' value="0" style="border:0px;"/> 
+    </td>
+       
+  </tr>  
+  
+  <tr>
+    <td bgcolor='#ADD8E6'>Farm Employment</td>
+    
+    <td>
+    <input type='text' id='input5-1' value="0" style="border:0px;"/> 
+    </td>
+
+    <td> 
+    <input type='text' id='result5-2' value="0" style="border:0px;"/> 
+    </td>
+    
+    <td> 
+    <input type='text' id='result5-3' value="0" style="border:0px;"/> 
+    </td>
+
+    <td> 
+    <input type='text' id='result5-4' value="0" style="border:0px;"/> 
+    </td>
+      
+  </tr>  
+  
+  <tr>
+    <td bgcolor='#ADD8E6'>Per Capita Rent</td>
+    
+    <td>
+    <input type='text' id='input6-1' value="0" style="border:0px;"/> 
+    </td>
+
+    <td> 
+    <input type='text' id='result6-2' value="0" style="border:0px;"/> 
+    </td>
+    
+    <td> 
+    <input type='text' id='result6-3' value="0" style="border:0px;"/> 
+    </td>
+
+    <td> 
+    <input type='text' id='result6-4' value="0" style="border:0px;"/> 
+    </td>
+     
+  </tr>  
+  
+  
+  <tr>
+    <td bgcolor='#E0FFFF'>TOTAL</td>
+    
+    <td bgcolor='#B0C4DE'>
+    </td>
+
+    <td> 
+    <input type='text' id='result7-2' value="0" style="border:0px;"/> 
+    </td>
+    
+    <td> 
+    <input type='text' id='result7-3' value="0" style="border:0px;"/> 
+    </td>
+    
+    <td> 
+    <input type='text' id='result7-4' value="0" style="border:0px;"/> 
+    </td>
+  
+  </tr>
+  
+</table>
+
+<h5>
+Instruction: make a "Proposed change in feature(%)" scenario and click "run scenario", then the effects on SME could be shown on the table.
+</h5>
+</body>
+</html>
+
